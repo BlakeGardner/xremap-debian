@@ -1,0 +1,100 @@
+name: Build debs and publish apt repo
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        include:
+          - arch: amd64
+            runner: ubuntu-latest
+          - arch: arm64
+            runner: ubuntu-24.04-arm
+
+    runs-on: ${{ matrix.runner }}
+
+    # Build inside Debian 12 (oldest supported glibc baseline) so the
+    # resulting binaries run on Debian 12+, Ubuntu 22.04+ and derivatives.
+    container:
+      image: debian:12
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      - name: Install build dependencies
+        run: |
+          apt-get update
+          apt-get install -y curl ca-certificates build-essential pkg-config xz-utils
+
+      - name: Install Rust toolchain
+        run: |
+          curl -fsSL https://sh.rustup.rs | sh -s -- -y --profile minimal
+          echo "$HOME/.cargo/bin" >> "$GITHUB_PATH"
+
+      - name: Build .deb packages
+        run: ./scripts/build-debs.sh
+
+      - name: Upload .deb artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: debs-${{ matrix.arch }}
+          path: dist/*.deb
+
+      - name: Attach .debs to the GitHub release
+        if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*.deb
+
+  publish-apt-repo:
+    needs: build
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+
+      - name: Download built .debs
+        uses: actions/download-artifact@v4
+        with:
+          pattern: debs-*
+          merge-multiple: true
+          path: dist
+
+      # Preserve previously published packages so old versions stay installable
+      - name: Fetch existing apt repository from gh-pages
+        continue-on-error: true
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: apt-repo
+
+      - name: Import GPG signing key
+        run: |
+          echo "${{ secrets.APT_GPG_PRIVATE_KEY }}" | gpg --batch --import
+          key_id=$(gpg --list-secret-keys --with-colons | awk -F: '/^sec/ {print $5; exit}')
+          echo "GPG_KEY_ID=$key_id" >> "$GITHUB_ENV"
+
+      - name: Generate apt repository
+        run: |
+          rm -rf apt-repo/.git
+          ./scripts/publish-apt-repo.sh dist apt-repo
+
+      - name: Publish apt repository to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: apt-repo
+          force_orphan: true
