@@ -82,12 +82,75 @@ The built packages are placed in `dist/`.
 
 ## Releasing a New Version
 
-1. Update the upstream version in [VERSION](VERSION) (and reset [DEB_REVISION](DEB_REVISION) to `1`).
-2. Commit and push, then publish a GitHub release tagged `v<version>`.
-3. The [deb workflow](.github/workflows/deb.yml) builds the packages, attaches them to the release, and updates the apt repository on the `gh-pages` branch.
+When upstream [xremap](https://github.com/xremap/xremap/releases) publishes a new version:
 
-### Repository Secrets
+```bash
+# 1. Update the version files
+echo "0.15.10" > VERSION   # the new upstream version (without the leading v)
+echo "1" > DEB_REVISION    # always reset to 1 for a new upstream version
 
-The workflow requires one secret:
+# 2. (Optional) Verify the build locally before releasing
+./scripts/build-debs.sh
 
-- `APT_GPG_PRIVATE_KEY`: an armored GPG private key (`gpg --armor --export-secret-keys <key-id>`) used to sign the apt repository metadata.
+# 3. Commit and push
+git add VERSION DEB_REVISION
+git commit -m "Update xremap to upstream version 0.15.10"
+git push
+
+# 4. Publish a GitHub release tagged v<version> — this triggers the build
+gh release create v0.15.10 --title "xremap 0.15.10" --notes \
+  "Debian/Ubuntu packages for xremap upstream version 0.15.10."
+```
+
+Publishing the release triggers the [deb workflow](.github/workflows/deb.yml), which automatically:
+
+1. Builds all nine variants for amd64 and arm64 in a Debian 12 container.
+2. Attaches the 18 `.deb` files to the GitHub release.
+3. Regenerates and signs the apt repository, and publishes it to the `gh-pages` branch (served by GitHub Pages).
+
+No manual steps are needed after publishing the release. Monitor progress with:
+
+```bash
+gh run watch --repo BlakeGardner/xremap-debian
+```
+
+### Verifying a Release
+
+```bash
+# All 18 assets attached to the release
+gh release view v0.15.10 --json assets --jq '.assets | length'
+
+# apt repo serves the new version with a valid signature
+curl -fsSL https://blakegardner.github.io/xremap-debian/dists/stable/main/binary-amd64/Packages | grep -A1 '^Package: xremap$'
+```
+
+### Re-releasing a Packaging Fix
+
+If the packaging itself needs a fix (build script, udev rule, maintainer scripts) without a new upstream version, bump [DEB_REVISION](DEB_REVISION) instead (e.g. `1` → `2`), commit, and publish a release tagged with a suffix, e.g. `v0.15.10-2`. The packages will carry the version `0.15.10-2`.
+
+## One-Time Setup
+
+These are already configured for this repository and only need to be repeated if it is recreated:
+
+1. **GitHub Pages**: enabled from the `gh-pages` branch (root path). The workflow creates the branch on its first run:
+   ```bash
+   gh api repos/BlakeGardner/xremap-debian/pages -X POST -f "source[branch]=gh-pages" -f "source[path]=/"
+   ```
+2. **Signing key**: a dedicated, passphrase-less GPG key used only for signing this apt repository:
+   ```bash
+   gpg --batch --gen-key <<'EOF'
+   %no-protection
+   Key-Type: eddsa
+   Key-Curve: ed25519
+   Key-Usage: sign
+   Name-Real: xremap apt repository
+   Name-Email: blakerg@gmail.com
+   Expire-Date: 0
+   %commit
+   EOF
+   ```
+3. **Repository secret** `APT_GPG_PRIVATE_KEY`: the armored private key, used by the workflow to sign the apt repository metadata:
+   ```bash
+   gpg --armor --export-secret-keys <KEY_ID> | gh secret set APT_GPG_PRIVATE_KEY --repo BlakeGardner/xremap-debian
+   ```
+   Keep a backup of the private key somewhere safe (e.g. a password manager). If the key is ever lost or rotated, users must re-import the new public key from `xremap-archive-keyring.gpg`.
