@@ -127,30 +127,3 @@ curl -fsSL https://blakegardner.github.io/xremap-debian/dists/stable/main/binary
 ### Re-releasing a Packaging Fix
 
 If the packaging itself needs a fix (build script, udev rule, maintainer scripts) without a new upstream version, bump [DEB_REVISION](DEB_REVISION) instead (e.g. `1` → `2`), commit, and publish a release tagged with a suffix, e.g. `v0.15.10-2`. The packages will carry the version `0.15.10-2`.
-
-## One-Time Setup
-
-These are already configured for this repository and only need to be repeated if it is recreated:
-
-1. **GitHub Pages**: enabled from the `gh-pages` branch (root path). The workflow creates the branch on its first run:
-   ```bash
-   gh api repos/BlakeGardner/xremap-debian/pages -X POST -f "source[branch]=gh-pages" -f "source[path]=/"
-   ```
-2. **Signing key**: a dedicated, passphrase-less GPG key used only for signing this apt repository:
-   ```bash
-   gpg --batch --gen-key <<'EOF'
-   %no-protection
-   Key-Type: eddsa
-   Key-Curve: ed25519
-   Key-Usage: sign
-   Name-Real: xremap apt repository
-   Name-Email: blakerg@gmail.com
-   Expire-Date: 0
-   %commit
-   EOF
-   ```
-3. **Repository secret** `APT_GPG_PRIVATE_KEY`: the armored private key, used by the workflow to sign the apt repository metadata:
-   ```bash
-   gpg --armor --export-secret-keys <KEY_ID> | gh secret set APT_GPG_PRIVATE_KEY --repo BlakeGardner/xremap-debian
-   ```
-   Keep a backup of the private key somewhere safe (e.g. a password manager). If the key is ever lost or rotated, users must re-import the new public key from `xremap-archive-keyring.gpg`.
