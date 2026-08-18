@@ -82,7 +82,21 @@ The built packages are placed in `dist/`.
 
 ## Releasing a New Version
 
-When upstream [xremap](https://github.com/xremap/xremap/releases) publishes a new version:
+Releases are automated. The [check-upstream workflow](.github/workflows/check-upstream.yml) runs daily (and on demand via `workflow_dispatch`) and:
+
+1. Compares the latest upstream [xremap release](https://github.com/xremap/xremap/releases) against [VERSION](VERSION).
+2. If upstream is newer, updates [VERSION](VERSION), resets [DEB_REVISION](DEB_REVISION) to `1`, and pushes the commit to `main`.
+3. Publishes a GitHub release tagged `v<version>`, which triggers the [deb workflow](.github/workflows/deb.yml) below.
+
+The workflow authenticates with a `RELEASE_PAT` repository secret — a fine-grained personal access token scoped to this repository with **Contents: Read and write** permission. A PAT is required because releases created with the default `GITHUB_TOKEN` do not trigger other workflows. When the token expires, generate a new one and update the secret:
+
+```bash
+gh secret set RELEASE_PAT --repo BlakeGardner/xremap-debian
+```
+
+### Releasing Manually
+
+If you need to release by hand (or the automation is unavailable), when upstream [xremap](https://github.com/xremap/xremap/releases) publishes a new version:
 
 ```bash
 # 1. Update the version files
