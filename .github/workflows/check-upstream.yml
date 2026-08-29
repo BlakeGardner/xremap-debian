@@ -33,7 +33,9 @@ jobs:
           echo "Upstream version: $upstream — packaged version: $current"
 
           newest=$(printf '%s\n%s\n' "$current" "$upstream" | sort -V | tail -n1)
-          if [ "$upstream" != "$current" ] && [ "$newest" = "$upstream" ]; then
+          if [ "$upstream" = "$current" ]; then
+            echo "Packaged version is up to date."
+          elif [ "$newest" = "$upstream" ]; then
             echo "$upstream" > VERSION
             echo "1" > DEB_REVISION
             git config user.name "github-actions[bot]"
@@ -42,7 +44,8 @@ jobs:
             git commit -m "Update xremap to upstream version $upstream"
             git push
           else
-            echo "Packaged version is up to date."
+            echo "::error::Packaged version $current is ahead of upstream $upstream. VERSION is likely wrong (e.g. set from a bogus upstream tag) — fix it manually."
+            exit 1
           fi
 
       - name: Publish a release for the packaged version if missing
