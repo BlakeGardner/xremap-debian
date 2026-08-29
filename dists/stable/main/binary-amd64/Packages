@@ -1,0 +1,3060 @@
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.14.18-1_amd64.deb
+Size: 1139980
+MD5sum: 8536c1bfe6259ce90c8667d30d4a7ae6
+SHA1: 161bc7c0fb5a76108399a9f593334dfd12ef2610
+SHA256: 36999a18c0346372a38026957a704b6380975aeebd19f4e9dfc5f031d80c6342
+SHA512: e6e7676687f4abcf2bfe9cd5b3cf7120d6db6670ec5253eebc89537c53ca38a923f07e9de4102be531d695c47db058a2057bfcf7706da1367f6b5b06956f38f7
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.14.19-1_amd64.deb
+Size: 1139984
+MD5sum: bf3cfff835fcd13296ce6d82ed7f800d
+SHA1: 9bdc82ff26caa002feac8b83c89a07fa3c540cab
+SHA256: 8b69abcd186f7eee47c7ba8f3f4beb40fafd8eb1640eb60955c7ffba222faa5c
+SHA512: 78523cbdbd3dba0d657f7c4e32080e279a580463850e5b9281d391cfc08c2e849d633f0daf03ff112fce6afc68dd367e6b254aefbd342672e48c96d4c2cfda77
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.0-1_amd64.deb
+Size: 1142800
+MD5sum: 39b537574fb95bfd19d2bc220e02c90d
+SHA1: 40fea3fd56b56c9be8009229707da0518b7a0d37
+SHA256: 258c9ea3aae1205e39ccee354808ce7307dba28b644dfbbd42bde7df86e05c43
+SHA512: a6b276a56e79c89d749aa778e2261d492505eae2f2d79299fa48aafefbdbd1900cf5bfaaeb62f704d3fd08583497d31f8753e22e94b05c7877a6623d54bab993
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.1-1_amd64.deb
+Size: 1167460
+MD5sum: a543359139749257fb922d6b6246f100
+SHA1: 9d483d005396681a940c27532790808b6b5ac71e
+SHA256: 770e84e788c396d69c00cb166927156f5ab628e6d30ff79d2f4594a49c985672
+SHA512: 02583314f19a91589063c1b386c33361c2c4ffd451708c28400ce6eb20745a18c611a831a4176fda0f5291bc92334f57b2ecb6e94682267471fe8ea4ed2b056d
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.10-1_amd64.deb
+Size: 1201064
+MD5sum: c41e65704abc22ed4691822d416e614d
+SHA1: 8a46508fdf71c6877e712f201c6948eaddbcd14d
+SHA256: c3c8b230fbc4050292363a4184d34b649b8d928312ba0e5dd55b17ca465c2f93
+SHA512: 46675a13ac21b0939ce901425d2f517333685ea4f78af21b6521a1ecd4392b7c4eabe1e77d2fb7bf34eb1c57958ba0ab507275f9bf7c7443b0448a6e038eb2f5
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.11-1_amd64.deb
+Size: 1201804
+MD5sum: bc096f39492b26aba5b9459eb862f85b
+SHA1: 394fe860130290a8e2a8526150976114af79a718
+SHA256: 9890de2ec3a260fdbf4ed274dc1890925645b48ceb07fe852885f88667d7b3b2
+SHA512: 8f104c627b41bdb6707b6043e62baa68c19ff77e9f3fdbde3edb78d88a346f08d645b22edc6e4180f40ce0cd529b71fadb0e057cfcf48bb336c29075fa3e06ce
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.12-1_amd64.deb
+Size: 1211036
+MD5sum: 42b371e6b3fef1a4bd9560634bcd51bb
+SHA1: 8a9e3e3fec3eb577c1c103475895bc5923ebba0b
+SHA256: a1d84c4bb02278fb0c177b3614a5a3fb25e765582f9d21b1b8e2b00eab951a36
+SHA512: 43c680c9dac1ec6c519564c76cbc11d52ff1a02be162e16a6c8cc54297a02e5f18d3cec75e7e7dd6c09bb78ee61ffcbc93f8e2d1775c5ce7ccc418f5befd1ced
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.2-1_amd64.deb
+Size: 1167016
+MD5sum: 02614a3651237405a03c238557936a33
+SHA1: 8ed508d7e38c764dfe85939b9c237fef55d8afda
+SHA256: 30e27ede8fa409f7dfbb7efb559959486415bea806433a769f539d636195d6c9
+SHA512: 11235a768e0a49af4c2965cab78717592e00fcce50d8a84868d81631539a16eec8788f9a37a3d8f4ad513a9a2e1fcbb0d43bbfb761633a42715bb8ba0799689d
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.3-1_amd64.deb
+Size: 1175972
+MD5sum: 210465d0bfc5c44767e923709baec575
+SHA1: ec7874309fcdcba97a60d000ac1be306c58ca83e
+SHA256: 87feb49c0f39f33e11e4ffae3d4c32a8b2d37202681ff650d819cec4f910a3a5
+SHA512: 849e4a1be3b9ebcfca0d5c0b3ee529c609ee9955d289e01e44bf53e525c7f5794fe5445b2abcba0ca5da070f4c9b01b316dde2c4be121fe15d698f189d09a4ad
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.4-1_amd64.deb
+Size: 1177976
+MD5sum: 8f4bb4334354bdbcccb56e4bbf81a141
+SHA1: 51e16fbe8b48888aebedbcee5eac1b0f628c413d
+SHA256: d9ebd24809b2fdad89241dec26ae7186b857bacbfa455f064bd987ce15b66726
+SHA512: 8e13e8c5b2f605cc977c5f2303eece89f47e67adbec2485f72e154c8f57580cb03fcfd26642acbf16b8c1ae5b7f9470d9a0cc5a9c710cb0f9c6c2a0f51895331
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.5-1_amd64.deb
+Size: 1181132
+MD5sum: 10a1206a2afc148b25357897fc4f1231
+SHA1: 91a469bac988a4ee50f375b8801ed82ab0dbdada
+SHA256: 491443315ff4c82e4499d62b78121dff360dd165162c1ce89631d7d1aa9f3dee
+SHA512: 18620f02b79ff1996e2eddfd15f411f3f29ff4a0e4bdcd3be444723dd8c6ccd912353b56b82b403c1407eb5fe340df0012c99bc1187a4d4bfdd73d2bee0213c5
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.6-1_amd64.deb
+Size: 1181928
+MD5sum: f556be1c300fc1c23f11b0b435291cc4
+SHA1: 32d6f87f9407a8b2d3a70189ca0218e9d54f2615
+SHA256: d7fbac69c21e86159f121df5b881a55bd8cca4a388a262fd1aeb4fe804658811
+SHA512: 9dca5050c7cf6554b9295e3ea7004f71ca77a4cd314270323050a175d0b6fe84c9be95ba728c7e3e63882958c55cdab7be0fc62ae482bd03000262dd6a432bc7
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.7-1_amd64.deb
+Size: 1182284
+MD5sum: 7192ae79b532333d05d342e84eeaaa95
+SHA1: 14b75b0fe9fa01bbcf7d6a7ad1cb62bbb29bdc03
+SHA256: fa2bdd8cc4f317e91b5ec540622e710a94def4b544f055172734b5cf088cf5b4
+SHA512: c34740d517c8a6d443c0e0beaed44ee871653c4f6b5bc51bd2892d2a5361ed9086ea030cb017c93e8218bf3e04379e20825a5a8d9802c27f4ee1a6dfbdc76af3
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.8-1_amd64.deb
+Size: 1183492
+MD5sum: 220039a122375812ae63d7b2467becaf
+SHA1: 5a021cda214f4ce6eda032f5e5da746a53671f88
+SHA256: b15a077d8d25891843b24ebe569498c294833cdd9d4ed557ec759de31b88516d
+SHA512: c5f7712abe8517ac4dbce93dfe454218ce6454f5fc36ec1c9e20f6983d62d0aef3ed3aa9cfb28a5f2ee2db9d5527e6fc44af7cda87d92aa2998f8e112009425b
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-cosmic
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: cosmic-session
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-socket
+Filename: pool/main/xremap-cosmic_0.15.9-1_amd64.deb
+Size: 1183320
+MD5sum: 03f8bf4005cd8d4f780f895e0d7f4c88
+SHA1: 9b53595332eb446bdfc3de757f61c8c6936a491f
+SHA256: f51b79b3b488e461bbde915764909d622fa1b8ff9f6c2dde0edf302fe3f2dc11
+SHA512: 9c369ae6fe07af348f440555fd6a42d696637b506fa50ec3e832e60a5ab5ca336ed6f0cfbe1673d73b61c9189683243908bd2e246b728dacfded94c1502a2155
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with COSMIC Wayland support (System76's COSMIC desktop).
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.14.18-1_amd64.deb
+Size: 1522616
+MD5sum: da3d263b1b927ac9f174f20086c945d9
+SHA1: c2a194c37e636b66220c128257fdb049ebbb7095
+SHA256: 43fb467b24596f1061368bf40a881c5651612056cdeb80343d99f006986ab6ea
+SHA512: 6c956803dce2c096e538f640d8c6c89e0044dcc86ee82fc8c57f09177de3a565dcbf4f5faf6ed513929d647ab7aed4232329ff4362b26bb832fe909a98ed342f
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.14.19-1_amd64.deb
+Size: 1521196
+MD5sum: b4131d4b25c473adc4b000585fd1dc70
+SHA1: a3a6e2a5c2e60278206c378dbf45bf04ce060cae
+SHA256: 1f4b1fa28dac38c2f7a50f6227b8a7405d1521df50c22a862b4bd7fc58489c3c
+SHA512: 83dcfcea25199e72f6188d67e6bf71c9883a44d31b53ec4a8dae029f8fef573886f47aaccf650e5a66dfb742a2fb9eb1a41761959b4d0a0979de8db52d3c22b1
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.0-1_amd64.deb
+Size: 1524708
+MD5sum: c201135203ecaa90995c7b08ef17384f
+SHA1: 211cfacc9a93a0faefe8f8ecb682c2b29195a480
+SHA256: a9800b869d8c21979e9a8253a1681c5b396a3df6d04eb68597b789b73176f353
+SHA512: a715aa3542356fa1cd14ccff519b64981dc87bc8a4eb16a000487572970170ad0b77517f89bf4426cdf3e6750620a84ae3f57f52c79d2761fb96b7d49ba4eb15
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.1-1_amd64.deb
+Size: 1532596
+MD5sum: c5bd639830bb51ed84bd25cc0355d854
+SHA1: e779f464393bda9bf244b2257299b742c98128fb
+SHA256: 7b122790ec9993be4ad318a0c1cd0544e47f4c4a4a6f249e69faa41672af62db
+SHA512: 7d660438981d177dd99011249b9a2b50f5b87987833e4bcdbb0ad7f79e1f9ecf6cd28f746288cc17b8f4c49a7d5e185261a66f170e46b8a6381875f1e59a39b3
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.10-1_amd64.deb
+Size: 1559728
+MD5sum: b45ea10b094fad38b72a5cf9230eb0cf
+SHA1: bb8c559672244adff82d27e3d7590d04e0429f51
+SHA256: aa8002472addb7762c07b85dfe901168dfb413a752bd3415c440b0c1a2cd5c59
+SHA512: 967eb34efad0539a2d0c136bb81f433d112b6180d66f2af38a7787d253782e54a3f660fa9e0504f3f383390e88009bba8558f793443762d33c5102af1dfc8ffa
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.11-1_amd64.deb
+Size: 1561612
+MD5sum: 67a6772b315cb496a98eaff7b12a7634
+SHA1: 8add65d6370d2e1d91867bebc839c5daf6443cda
+SHA256: bb54db049dc9b13c4b02f975e9e2c6785a745d2e8c3f5dd4657e84bf8889ae1f
+SHA512: a3b62f7c5c03ced868fceaec346c052a334dd05b2b27276587e7affa500c5e46a61d5ffda99a1beb907d6f3016354ed05e95863eb8fffa9755195c146a287563
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.12-1_amd64.deb
+Size: 1568688
+MD5sum: c7ecf79ab589bcec54c8b2ca44a7dc59
+SHA1: 841b3944ce916dd61129137c270713e8f6aa1b74
+SHA256: e3d5d7ccc0634ecd7189912dc6cd0889099dc8209080f673e5001166116ecde5
+SHA512: 8af79dcbfed4b8b0f5f91945bc6d08ea6ea2bb6bf65bf99b908383b8b4ccd3117a31d470c9abc95ef132f1d8eea87a2f020e4690eaf2305eae6031201be0484a
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.2-1_amd64.deb
+Size: 1533752
+MD5sum: c88f80af1392e3ebd8237dd066bd9298
+SHA1: faf2382f1d6d777af96388d7e05c8cfa6be801d9
+SHA256: 59905ce7aa00dd1cbd1f7670b2e2be42744fa75445d9c8478c208a84ba9de9bf
+SHA512: 361dd1b2378120347cba39142de580c950b07b34d7f11b83a370acd8e152666213fc30df303d405d073ad3a0c0b028d21c9bd99e35e06692c8d9a1713832caba
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.3-1_amd64.deb
+Size: 1541140
+MD5sum: d2ea15aef067cac239be5090aed1e671
+SHA1: c85b893f375ba90f945bddb4fb1f42ecaed8fd80
+SHA256: 2c2edc63075b9277cbd2dec6abaaecc9c0c0b359c24317c0c2ab81dd5df17693
+SHA512: ead130697839892a42baad692f510e20c28208bc5b631ec239d881de214410ac94314164c418be8a5fc966de3d508bfa1a1edef8e72e77178ff32991051b1edc
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.4-1_amd64.deb
+Size: 1542732
+MD5sum: e82ae4be543293d29376ff3a7934c26d
+SHA1: c91f08e04c0b5bfd19e2e1b15ebbe3b2ab40ea4e
+SHA256: abde3e25aa903aa251d9fee004952da1f788d262c0acc8dc82769d18cf4d3fb3
+SHA512: a9c307b8b664e210efb631073179fd99cf5384f00621ced96a4efb0ecbf7821fad453affa95791905f25ab90283d45a7a4a94b054e20b57abd07be4623064086
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.5-1_amd64.deb
+Size: 1546612
+MD5sum: ec1337b56a78ad85f6aee056c7585a67
+SHA1: 8cfecdc3c8aae10f75abb7239509f3498f87db54
+SHA256: 7dc633a2b8e5d1294b7cea8ec77525dfa352259af21b1f72555d67d5e20214e2
+SHA512: 92346737dd980e9b414bc56158118dc2957adf345f1b732379d53cb43551d5fcc2891e4489ca2e073d65d9022d2fb845b40b6d7dede362fdd5496b8c7859067f
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.6-1_amd64.deb
+Size: 1546348
+MD5sum: 7971a0ce3ac8e7101bddb4cf22d331bd
+SHA1: 483ed3ac1fb64f92ec32844114d853fa7a9951be
+SHA256: 81ac5225d0b137eca3d22365beb31ae38edc3d85bda0fa9f9b942d9c703679e6
+SHA512: 012f0d43a54e2788fff90e0e57915a82e791fb8d6ce62267f2e2cdfe490d50086746042cb0c565fa331f2ac0469801dc6707aa22989d0d43809e973414a9a172
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.7-1_amd64.deb
+Size: 1548184
+MD5sum: 67054b67c8c5a6628fb2488553caef16
+SHA1: 92d1ee016f7375465c54d0d8fafe64689a648f38
+SHA256: 54b328ef3cc6dbf6df2599d3012140c9e140ff431e8775a1d4370e97171266cc
+SHA512: edbd418855858436b22450fb2a6398746a8ec31257b9a73c574cd5ad106f9a789eacd9ed0f54f6140995c882ae5d0e216e3bf54d1c8cdb0b80c8cc6815bbae50
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.8-1_amd64.deb
+Size: 1548752
+MD5sum: 068402c31332a7c0648a25173ffc2fa7
+SHA1: b4c0403eaa113aed6045a3b79245ef2f941b2e53
+SHA256: 7e29e41c2c9095567565baec16fb4af175ddc287d7b23a5ae5a311d6deb92885
+SHA512: 411b745866b0c7c7786916584f89f2b0a174831a56e26e47a45335edabcdc8c311294f69fbcd7215f07dd3936cba50a706e144ccaf3649a4ceb5956c3a4379ba
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-gnome
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: gnome-shell
+Conflicts: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-gnome_0.15.9-1_amd64.deb
+Size: 1547580
+MD5sum: 9ff6f763a409012ac32da0d7f31958bb
+SHA1: 25642e5f6ce3fddcedd4b77868098baf9019bf26
+SHA256: a96dd7eec0e8b3047e8771d6aea9be5a471faf1cdb301a828acebccea9cbdc9f
+SHA512: c9fa78a6bfdfe4a3524fa3f735e602bb7d6a27f2f5f1708e6a0dae5e458a5ab200c20af442ec080643a7d10f9711fb38c4c0ea2fd20a85f230ff67c9ed0c47ee
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with GNOME Wayland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.14.18-1_amd64.deb
+Size: 1119604
+MD5sum: af2d9aa5d1ed20ec5de5f930b62fbb5d
+SHA1: ac86246dd2c4044af101e2a336d06ef7f9ee185f
+SHA256: 21ec07f1c2bd3ceb68888e3a7e1e999fc9b06bab3b9363186b1e9bafb711f172
+SHA512: 2da4b566dce01f1950aa703eb4f3056db4909acb9bfee819ee7d220b07f768abb02a1d82e374acc0f2182a85ea5b46519ed39be2608653f7c19f3b5a1f7d0539
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.14.19-1_amd64.deb
+Size: 1118144
+MD5sum: 398ac046c30b1f79517b037cdfb7a903
+SHA1: 41f6a14b76ffee58c4bab888d8eebbb8428592ec
+SHA256: 2b6ca74a5acffbba6bb245f382e59bd9ba8bff78b0a46f848b4cafeee7cb5996
+SHA512: 87e34e043c8a2d64840719c1f0d4a72564b846d3b0bf00bebec9e46e4489c077d597add0b1141fc185a0f0df965c8d644cf7dffeaad67e189993caab31bae210
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.0-1_amd64.deb
+Size: 1121800
+MD5sum: 2d29c16ffd038446689f6a57ccbc5064
+SHA1: ab3f7ddf39f329fbddb8ca2556e14f7f81a3d4f0
+SHA256: 7ab192592c609153226fb690b54c3ebd49f4e08c546373a251e9fb90e1df426e
+SHA512: 9da58396f792a1f11ce130c4b725edf8d84bb52390a83dff9aa84c82c318126f4bb9354eec68f20bba4e9de542b46c2d62fb17870c9660a0c3e4b4c812157e5f
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.1-1_amd64.deb
+Size: 1133164
+MD5sum: ff80512c64c6e58f6a4946001cf41b7f
+SHA1: a2884ee771dc98654b4d8413fb8150906d43c41e
+SHA256: 9cd5d722b10081341f92b5774ee1ca1364e008dde76941b2d5d4f6319d4eb958
+SHA512: 4662debdebfc0061f5338dd7a4263b9b06bd08453e668ccbdfc976ee4c9496f5ac6c4cadb381ad8a67c5440527565ab4caeb8ae2dbebf4b44dfeee82f93cfb61
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.10-1_amd64.deb
+Size: 1170196
+MD5sum: 64b33a4db229eb538c4b1d09339c2421
+SHA1: 920f1f199d1d64c1df53a51fc129bd00219da771
+SHA256: 7049dbb0dcf0f2921168d2b4a5fc1053406c72e9e74a5a7859fdba8844c76948
+SHA512: cbaf4731a8a5c720a8dbccc5212bd96491a9bca4e693c3c5345caa38578c29af099698d54cc0c3f6ab3c63146e8ea214bd10ae6b61ce7a8547982abfa87149c4
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.11-1_amd64.deb
+Size: 1172240
+MD5sum: 475c96ab4c5f0739134426baae470804
+SHA1: 0d835eb3e821724d31267406022517f9b880b7df
+SHA256: d3748132d4cc55af26c2ad99cbe062d423b604f00af59db0aa81646bfd86086e
+SHA512: eef0fed790fb9e22aeba5f93237d84429eb18f7995923bb7ab7a39364f63d397a460e5f8229ef899282c5912d83ca44d1e532ffb400842464cae440bbcc566d1
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.12-1_amd64.deb
+Size: 1179584
+MD5sum: 81a10e9c5ef65a2fdeff1d279e3bcc8b
+SHA1: 4261e32cc265b3c93e42e4a9c7c215a3c59ff032
+SHA256: da3fd843bb1db84ca7974dc97d709286f26b46bd58e488e5a368468b183f5155
+SHA512: 0fb4934c6adfc2779574e871f4993acefe63cbbcae862363c99b4bb9c2c9d5d71897fc5640959a9f5028232968e01eec45f056f3a6f74c4fabe8be1d18cc450b
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.2-1_amd64.deb
+Size: 1133496
+MD5sum: c96ec929e115c440ea0a5b35615eda74
+SHA1: f4810255ac21e5658499917bfaf39d9b548ede90
+SHA256: eae8ee329d08c63085142f7f4ec4234852e3df9c397ff93cb0a7f1401e05e89f
+SHA512: 09bd2859a7ad9eb31ed1cbff06724c6e27fef028b758e362a7a50dbce531b1b5ea332d909b5fb8e527ef7fa231302a2e5dc3bc16f3f7e39f83d25f549d1b718a
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.3-1_amd64.deb
+Size: 1149536
+MD5sum: 60b3eeaa7fe253b78db105a30fb71800
+SHA1: 716e9d2d7c41e1059803e9f9d383a711558ec92d
+SHA256: 4a01bbb042482c9db25832febc367370d3eb2dd3fe1dcb49606eb63928ce26a6
+SHA512: edac627369c4cfef7734f9a2d266c199ee39f3714a995d9261467770c8a03b2949cea697cdcdbd2301877f93df11967ac735db07d823641eb0a371d1abcbb6b0
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.4-1_amd64.deb
+Size: 1148172
+MD5sum: 02e4441957458f142246455521a42e01
+SHA1: 1f2a960077ea65ae89309cf4c48254f45bde8cfc
+SHA256: 840220a505a5098310c52229f5e3819acc1e040c35a184faac7f0f52267bd6d7
+SHA512: 30494edfe6f0b4f6d6e65e9acf40aea0f72d29966430386e9db8c0b83e63551fce34169a0c512fb1566d6afa3963cd17c19ec4715d6352cbb784de95bbc53f2a
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.5-1_amd64.deb
+Size: 1152616
+MD5sum: 5dabb2a3e08ad8a33c1fb6402590b1bc
+SHA1: 894467643baa70fadd73ebfb51d625823b26c173
+SHA256: 2dedb69dcc3f41d06319771752ce02144b1d8f161e061873d9f93e2f8cbf9b8a
+SHA512: 330fcc66b40a72a76eaaf5f003a68356de7a78e223d803545afb72b58a8d8313c0f77f33897879f16b3dc32c3686ee9717686e3e1a50d99c7e06b591d5104feb
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.6-1_amd64.deb
+Size: 1152020
+MD5sum: 8b304f7d2a7e0b1b50c90136ae99a134
+SHA1: fb37167d52ad67f43bab415bf75fff97fe91149d
+SHA256: ec5f607c0cdbeed1f749fc3dc54342ec53947820fe336fd0fb56403f8a14e1fa
+SHA512: 9942dcad6320f9ac7f32afd0410c0eb867b80b9b6c0145ce8a307690c52c7fb8971eb7ef1f210dd68010ee000910dff009a9e64f9ba7a71f412be1bd5bda217b
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.7-1_amd64.deb
+Size: 1152388
+MD5sum: 0c1401c7731a7fe19e2506cfd0d2d665
+SHA1: d13f89852398705ff1171be19d1c5500049d9c6e
+SHA256: becfc1d162bcd8f442862cf2679256d122ea1174d1e1ce158bcf8aef22d65cbb
+SHA512: a28fc9a2dc52fe719f77b70c12bbe535901d94043641fe589ff9ffbb56f6ce2130056f2ac732e06b794b248b9b6ff7f3928acfd8fbee5ae674b6a0a44db80150
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.8-1_amd64.deb
+Size: 1153972
+MD5sum: a6509e83898efbcc01ac385a9949c2ab
+SHA1: 0b9b9b9825daa24e36d2c5eb7101322bebf4ddc7
+SHA256: 802b58c91ccd41cce8fad903d9b973598c2058cdefb444990be36500aa57a350
+SHA512: ef40584a747479601c32c78dc0a5e1ae58c0aa107020b0641e2ab95bb012a7a061360e5ae9982a329618571e39bc2bb5447e3d37f975c00d0af8c121a80142bc
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-hypr
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: hyprland
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-hypr_0.15.9-1_amd64.deb
+Size: 1152252
+MD5sum: f7572dc30a3dc98b2ff772bbae3977d2
+SHA1: 461b2fe5fd4cdbf277593424dfa9327584a86134
+SHA256: fe1be1bb659de9aa4076732b99c2a309d16ff742d2ba1b49aa6ed3c0c23a822e
+SHA512: 006a5f511fccc67a34d5608da66ff380cfb84ca848e27c17ea9b313dc9d59e8c6ecc3e05836a61b52e20b685722c9f7de50b68f33499e7f8df3759f109baed71
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Hyprland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.14.18-1_amd64.deb
+Size: 1532564
+MD5sum: 5462e0dc53d0088bd9b2d0c7c25a5f14
+SHA1: 8f723fe9be1bf7f288648342f924a0495dabd2b0
+SHA256: 91386446652bcd14ae1c189bf85ee58bec3c0fecad7acbedb02dc01ae8c379b8
+SHA512: ff398fd7e9f4d5148f79c7e4a3de60009fd04c5ca5215f7f374ae5517bb889e3ccd19fddc438c954cce96cdf2f8af242450442a9f14b7f92bb645d0a2d509ff9
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.14.19-1_amd64.deb
+Size: 1531432
+MD5sum: d6c794d035c6079ec79488cecaf399cb
+SHA1: f6e52d47b70b6b94ed97c66f10df0e2f42a490e0
+SHA256: 1983bbfffb63ac6d783cb83e2da4f4313ae3d3c0ea670f85215a6a02cd23243d
+SHA512: 414ea3740cc853937f676ab53e397671b2d72ba9ecc052e7299cb37edddd0d4551dd597d934796d94afa30428dcde77bd35f8fdacecbcd965d94ad31c9d13c28
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.0-1_amd64.deb
+Size: 1535100
+MD5sum: 0729b4adaf2ce33885f50f560f0e4c2b
+SHA1: 67b67fe5ca1d34443f22e10fe94ce1baca2e1b1e
+SHA256: 5628dd262d95565ce2fe8a37ae630e31cb37e19f606447f0a343c952279d49b2
+SHA512: 8ff0aab6b1b8fe2cd338c9e1ea738de7b928f38fae1f6ef1a59e2270b249e1593f799bfa42b30a213986c0e2c78fdc78f90a6dedcac7e811b31a568f2629cabd
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.1-1_amd64.deb
+Size: 1558492
+MD5sum: 07c52b09ce80b291d89e0cbc84dda4f8
+SHA1: cb734dafc68d4ff0509de077a690ad72f8ffd1d5
+SHA256: 26d3724c8b6c5b5db91841a9b36a444b2b7c93540fbe6ce0723aebd58a7ebc7e
+SHA512: c70fb03258b928f0658580e02be2b88cf3e362cdc918b0e23dbef8ccbb6f1c5585f3ff958283aa965f85bb66973e78a55f92c9584b3e7ee63907f91eb8ec5ad2
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.10-1_amd64.deb
+Size: 1582976
+MD5sum: 43f3bbe2a73e5c56c101904caacb6bd7
+SHA1: 39f67cf870683a122ae0a6563dfb87c25db5a208
+SHA256: b7245cb4bfd581d3c62e64575ab314120007e97009e4d0aef3ca80e24a67418c
+SHA512: 84c8de596a46911b116e3e8ee2ce9e083b9f9aadd06ae1f90b8b4bbd09b0cfc14bf7dae3ed0cd6504c3414f0b22a71010866ca46bd9cead6ec457f9712347915
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.11-1_amd64.deb
+Size: 1584644
+MD5sum: 9ae4718f3fe6c2b8ef843dda87b48c96
+SHA1: e77e774a0e2c4f22a7c6d90d162ad5605eaa31ef
+SHA256: c087c507e1f007e1ba44b455b53fc835ccc1c9a54862188c136d6661dc277fc1
+SHA512: 74d0b059a20030e4d3cb30e68766ed946f755b4087f8742a033d0cfb204b50af6e2c23425847c02ab8045774e5c92508fbc065fa7a926f85906cbc8bdfeaddb7
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.12-1_amd64.deb
+Size: 1591016
+MD5sum: 2c42d25af1c62b66ceef412cd968cc9e
+SHA1: ee3d001ab0093fc51f3ff37d35a18677b5d460e5
+SHA256: 4a1647a271361daa5339ac7d22a6d8ad466fbd6d5c57d14282cc179c5b86950c
+SHA512: 7ed13961757f36de91bf940ee1ef8390b4ff88d40f122797f3fa57efd2b57c8c7d8f08f3f7295f2174b903443c7e2a97295550a054c5d4621d7a10cd8e829c3f
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.2-1_amd64.deb
+Size: 1558880
+MD5sum: 1ed7e91c04a24d2018f84503421f35c5
+SHA1: e1d18295218ffbbff248b4a35c663928ba8c0e85
+SHA256: a56a34d28a3617389f2fb4f3ae675a11b36584071cc5de9867952435f096de2c
+SHA512: 33fa2aefd9d093242afc2ebbd4d7f3472186a404a71d5cec6866d9109d2f2f46395c2ed1c2bb7baef07ece12cb68a5948b6680c9921aec8e406b12e00eda4693
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.3-1_amd64.deb
+Size: 1570544
+MD5sum: d56358bd636c55b9a5781cdad7929fcf
+SHA1: 26d69186af17fe274a382a2be3be06197b9ea5a5
+SHA256: 6d336e9e72792fa5f23504d5b38a8e284e56642e4614cf8d95e77bee026a3dfb
+SHA512: 8893e26ef49c765dff3236fe6dd930554569861b5253312327d5227d6909fdfbad6852dde68f6e5177eb327318e79ee20476444f29ed619851f18449e142da5c
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.4-1_amd64.deb
+Size: 1571672
+MD5sum: 94c3038cf0fe453df6693b7ce1835558
+SHA1: a6eb9512822170437d01ba72353834f4a0a79192
+SHA256: bf2ebeb6464b570de58879e9422a5ec08a8193e67fc5bdc1a50ad70344145ab2
+SHA512: 9655fd1257e46efc1ad56bab15db11a50db6960adba40e459fa57fc78adf39a512899fb960383b88300488c10040566ef1f95a3a38255b2985675ad97b3708fb
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.5-1_amd64.deb
+Size: 1577768
+MD5sum: 4608ade3d7dd63058429474c1ae4ba41
+SHA1: 6c9114593c766fe56d66e3814cf979c84c8fdb1d
+SHA256: 0ca80f8dd5029ed1de0d32e79273124e43295c4f6ce1437a3d142c83150aee12
+SHA512: 7878db3c8647895dc2b94a02182bdd02bdeb5a8ade3063d6f86c2da5f526117f5a21f12d530434706e45cb5c9e80d7e898e7e3f4b06886545fb5743c68efac00
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.6-1_amd64.deb
+Size: 1577132
+MD5sum: 2a2a2662c055a470fda859396b7d054e
+SHA1: e189a6485b91a412fa050f561b628bd26a1e2576
+SHA256: cccd7906c16465390aff901841c2bfa6b59bb73af18663456565bfd48eb8b601
+SHA512: 64d01a12cad29fcc6201345e05f3baf82c1074d99c08bad1d6b84e725ec2931de23475a7303e47512797bb4752fb67fdcb6baab1de3214a9c7f029e7a234274d
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.7-1_amd64.deb
+Size: 1578328
+MD5sum: 3e9ed7792f8887d565ce2d7a3d788fc7
+SHA1: 5a612e9d49c520bc8fbaab92fe21c0cfb8c4f640
+SHA256: 1ffafa75854aca855a3b0eed807def289c7ad8b7e8e908d924b1ab6a63c90106
+SHA512: 481092e8d599978c4f11a4e2ddc20c7d696add0d59851dfa3a9d0c806b20f34c03c988b6c0c072f77ea710970a44b16292e058f2ee061b399a138aa2221e0bce
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.8-1_amd64.deb
+Size: 1578948
+MD5sum: 2bf8c46ce44776a1cec53efd4a58e330
+SHA1: 72693efaa1d6c94a19aa611bf9d2d5895f294784
+SHA256: bb27b6c854bb8257c78db59bca1853a8bd91c53a065db95760de38f53caebe32
+SHA512: d1dcb4d766f2349ff78706e88796775eb8c2a22b370ae4d20d77212234cf132006ca5c1d00040b657352f546ea13ed7efa1c344514c09a6ea157f2dcfbbb1f85
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-kde
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: plasma-workspace
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-kde_0.15.9-1_amd64.deb
+Size: 1578136
+MD5sum: 52cc5a14331e5390719337dd90fba7ce
+SHA1: 01d9c53e5495cb08f56843d5bc544715155341db
+SHA256: 17805b666679cbe5c36e34cff05489ab5cbcaf23522e641e956e23a6950de9ec
+SHA512: 154591a49337c6152f6419b0c95f875b4b095e3e09f06bbbd4eba288aa3ba7457890e78893c6a639c2ad21c86996ec5b379e3dc2b9ffcd751eb771dc319423af
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with KDE Plasma Wayland support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.14.18-1_amd64.deb
+Size: 1138396
+MD5sum: af8c4f92c2bdffd6fea14024806c11b9
+SHA1: b82d61c59aca7d56620e1ce864df6c4f3e090f16
+SHA256: ae9319732b11977a718f3aa749833a7ecde77eda184c585833f6e9701c0c2830
+SHA512: efa308f30efe7b587ef57ba406221627d4acd6a5c4a2b82b3249d4f6fb892632012e46fe48b88c4fbda48e1cccbfe4d56175e0ff32930f1f1616a30f24596987
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.14.19-1_amd64.deb
+Size: 1137524
+MD5sum: 57ba12b9c949c6d0b4bbe280b5ecc2c3
+SHA1: 37c8a32f11871adc1339a42758e0bfa9f268b2e0
+SHA256: 8947917fd77695bf9d11ef4fe9f2347c103ce75f47118e14e9e6062c18bb182c
+SHA512: f1c477ebf18279e93d3636c3671d0987cc910e0002a49cf9347a2c8a82782e98afd328513d382892d0aa1a107ba47613584d53d50c5500b5fbf62c3f5f64e7ec
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.0-1_amd64.deb
+Size: 1140632
+MD5sum: eb09aae3d8c9aae2d5250acde5c10f32
+SHA1: 56afccc9d6e5e9a9c0184c806f7956e0d10f8a24
+SHA256: f524988fb51febac041134be47256ddd6c808a0a28f12af006f7500ab4ed003e
+SHA512: cc59ea73eee6e4c9db253dadc4fa0b8d334ec024c0723beb2ad256714de036cd985030c39101a8c5d14b24f13c739bfb89923501a28ac1312417c10a3bbc5a51
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.1-1_amd64.deb
+Size: 1150900
+MD5sum: 3aa8ab2bc708ee7811dba8ec5a0af9c6
+SHA1: 2ef277faba1a25b46cc92b99a9fa0592fb651d82
+SHA256: d0b7633134daab37fd53e03b8680e1a742b01861248ddb1a7efa39a5189ed8ae
+SHA512: e9266d87b12105229759e749a97b58b874ae3bc16e713fba74a1e7eff8766681cebadc855a12a491303b999c457bfd62192ca2c129a8e338d068e61a250f87be
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.10-1_amd64.deb
+Size: 1188052
+MD5sum: be0e38bfbd3044aba13d4b7dae9f905b
+SHA1: 1f84c943fe8c89e3083e86ba72f3bed40fe78aff
+SHA256: ce4dd2215a8a0bad9d953e019dbccf5ca4b28b3fc12679387aa286f6a9d20301
+SHA512: 4f9e6006671d9691c1ad76bc436642c2d8cf68e2fffc97fac4c7712294416b80c05d1644a4419bdc69c94eed63a60162bf52bdd8439d29d7b59839ac91d24b5c
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.11-1_amd64.deb
+Size: 1188416
+MD5sum: 206c6d409c75ced25095b6528cab9dcf
+SHA1: 0fba122761c67ba2286e7dafd5a8e547b61dba19
+SHA256: 6f2ef6216af58dedff11ccb9795fa25558f94a0251ec4cdb930de35b7f733294
+SHA512: b99ba3ce63057d2700003b092993dae8ee6037f9e7fb818c7d2c788935f0344e41f470dbed4c3d3e61e301dc9f92a2501f3428886cf250dc6dc26094720b3591
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.12-1_amd64.deb
+Size: 1197528
+MD5sum: 99a5e1730be5b4e74a894a94c6fda1e0
+SHA1: b05354e15bf784ee9125c68994d708ce22115240
+SHA256: 852052295c3b78e4707759edd42298808db5cfb476fe8346b7ec64d2a38a19ff
+SHA512: 65167fefa9230fb783a54f526f760007f571e4e2a5b8746e1981971bffc60b8509dbc1b36cb940337fd31a6a45aa18b86cd81f8a653a5f86f4c356355c07bbe4
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.2-1_amd64.deb
+Size: 1151476
+MD5sum: d4f159d74b286f36909431b63df6970e
+SHA1: 5d277cfb85029ba8c0d11061e6d33fb74b3910f6
+SHA256: 00c91882e102f084cc7ea90f79f9d770478e012d94db18f164afa34e874c7a22
+SHA512: 256c5c17b317b821b1c5c7e177a5811d9a0c2e0b1d02fcba63ee3057d3380508a6eba6c1f05c94e74703278559e694f3fafc65a82bf88d110ab3b4103b16ae58
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.3-1_amd64.deb
+Size: 1166800
+MD5sum: b15d312d35d9e7eb3767db28980a61b9
+SHA1: a38778530ff6ee23a1cc84d04d4aa7e71048bb45
+SHA256: c2ca8b4bc57e53814a74eca69411b734e8abb0924ddcc44378f1bb2a3d8d6f75
+SHA512: 95a0afce836410848bbd82560a743ca3edc26067f7774887c8fa1309cdf271d79a46cd823c408e67f6771e61bd515aa489e981b3109413c5be8f3784f2e5530c
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.4-1_amd64.deb
+Size: 1165872
+MD5sum: 49b4c9fcaddf545993ce020b5763ac23
+SHA1: 4402e986256cb14a5d6150d7a5e5739cdc8291b7
+SHA256: a6d315a2b24dc9b1bc69632d5019187cebbb208af2db8e579be6c9e142a25b3a
+SHA512: df51a38e5f06d6fcaa023560f6626a3296dd809b27f682e944b6ef4444ec3d238c6ee940390192a2d06282f1310348e122bc42135a129676e220a6e41f5bd3bc
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.5-1_amd64.deb
+Size: 1169392
+MD5sum: 527f30a50a1c9680738c0d90c9c87849
+SHA1: e7ce394233685e923389b7d7944a69dda26c64c2
+SHA256: c2807c67c82260bdec022f29d41c14e2f9eec72489eb8b7084342769b662f9ec
+SHA512: 6d9370ab77f1ee8dc66db037bfc1a04445e6d3d41148744700df1c5e139debf8b7f9ff6c9905994bbdf9783f4d0ba3733be52d1e7c2738f8bb2a000e7a7198f4
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.6-1_amd64.deb
+Size: 1170908
+MD5sum: 69f54de76b4f98682ecd638e73556431
+SHA1: fd6f9f6de3fe066876cc58e75f40d88a9141abdb
+SHA256: 04a1d6ad24cdb3dac7208309f0d943a30bfee19a5de234af4f7207e57f428e9c
+SHA512: aa189e151ba3242de0a098562f7710faf800f006ae41ff984731fe691fe9c94d028be431ee79337601f203e2c0e948350d029b5b7e8a3d4f975dbd7bd8171791
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.7-1_amd64.deb
+Size: 1171020
+MD5sum: bb52589c37fbe672648cc493e67244ee
+SHA1: 353c73c577871d7067743202a939a60be7209c21
+SHA256: 56859ec80657181aa53a7ba8f1037a4e803531b4262a380181a4dbfafad42f09
+SHA512: d5e2739eaf675cdb691d6dcba89ed6170ff95697f75a802022b4994e83c3276f720bcbe47151f9bccdcf8942ca54a908f151c4cd3c148ed5d7407181f50d4660
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.8-1_amd64.deb
+Size: 1171692
+MD5sum: 5bf47e852fbe68b4c04eddc36580eaf7
+SHA1: 4cab62065bfce9efe8072fe604c4252387834d30
+SHA256: c3e3ea63bf77e5e8242ccfc3331619600aaf00dd362dd21c955dac861bcae1e2
+SHA512: af5a3191050f33b5c1c99991253497f53beb8cf052ae74a6155d10c99b2990b1ebdb7502de595872de110959e18b48570b851ed9041389fd65d77365d4fbfc69
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-niri
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: niri
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-niri_0.15.9-1_amd64.deb
+Size: 1170304
+MD5sum: 9abcb44cf674be481d7d7ca71eca8be2
+SHA1: 5f83fd7a63c2fdb162957dc857463e657556c354
+SHA256: 40ac5b6062e2ac12519754179d74a152a059da980e10cbf0ed0cb369559e8ac6
+SHA512: 0aa856368c04d66bdde40165e8dca0bbc0e4c0e5ac5f744ee49332d99e99a3adcef87a014df6c2c8f9b2c3c994d1cdcb936c40f5c3c8dbb70a7cd3f3ea5f3d18
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with Niri support.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.14.18-1_amd64.deb
+Size: 1650632
+MD5sum: 894d994226ffbd564e126bb65d4e81ad
+SHA1: b1a30ae6bba0d5be62f12f36363bfff2373e6531
+SHA256: cfc21b878d8fc29e42a61f0306e1bafc092d4b9daf9a9d97af517e54b2c3e4be
+SHA512: c07fb1b17b3fb16762b2d04ff4b002b1dad4da3d6dbd3c9a8b04e9c8d4799491e6c080d76a69d0f06e7801d7a5a5c05c06fe97baa470e579b8cb8bc5aa484749
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.14.19-1_amd64.deb
+Size: 1650952
+MD5sum: f527de6d62c7bfff57e68fc5597f7ae2
+SHA1: 8801438be410f761cf5faab6842bc1a07c62a5ee
+SHA256: bd8b45319ff40854d3849f824f5bd61332bfeca8fde6f385cda7a24478752464
+SHA512: e3c829068aa4126ad6c7392675b565e0051d33491e59db9a496f0d044a460f2db24e9c45674d33807e00047dddf47743b5f376fcc3840640aa3bdc9ddc5c7b7e
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.0-1_amd64.deb
+Size: 1651888
+MD5sum: d2fa06b7ec25531838a475222cd1b3d9
+SHA1: 6542edb0c1da000bd73bd2a70fc4a642e43f16d6
+SHA256: 38deadf281114b77ae253642fa4b697492577e78c58cc5eecdd340b240e8af5b
+SHA512: c6979acc250042f60f14ec8ba25a4c1dedd42087f9c8d3d00148f398731808e88d13d9a4d4100074391c71e9eef864a964ecb015979d67b8996df45b34bff4d9
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.1-1_amd64.deb
+Size: 1660484
+MD5sum: a752f2be52065c41842c1ae7cdc5f59c
+SHA1: 6d5e32ccca836fa8de82dc52ac4f6df844749616
+SHA256: e9402b4602d13cfdbf5b8afad01b2f79c70da84ba3d7280e5733211feae0555d
+SHA512: dc7cb4b302e6c64199a942020db2e7dc60a9fa0a8d10a0b7cddac48f4f97e6e8201fa1eef5602762993a7556f3c8a2dbe4d75e0d8c61a8886785b358a01943f4
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.10-1_amd64.deb
+Size: 1665812
+MD5sum: 5b68dd6231b87eb4764ea1dfb2225f03
+SHA1: 438e86a9b723874e177c9b79795848ffc06a3d10
+SHA256: c3cfb3084440a8046ffb323d243c89b37ba090c6cd3f73061819f581783ce5b8
+SHA512: b8ea4ff41b5f9107821e18b2206feaffcea40e589ba078db7fa6857e4d5063a7289885b89c06d13bc0903c8cce36a0ea1729d06014b568b36fa90bbf1c736dbd
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.11-1_amd64.deb
+Size: 1667744
+MD5sum: dd19aa9be99b8ee5a5e81b6663aae12b
+SHA1: ae7f14ae91363a91fdc3e98750f5261ee59a3239
+SHA256: b24ea1d29504743bed9f98aac2f6d7ba7ae148c8ffec5ed1af7f40c825f1f597
+SHA512: 3fa25e538cfe78d35727a294d4a12e2907dc76c43ad179a0f61d9f5c3747646b269270e11ce084de60478ced75df99efeb1e8187ffdccb273565b11090d73680
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.12-1_amd64.deb
+Size: 1673084
+MD5sum: 52b082aa576d2653365ef24a046d07e6
+SHA1: d46ebf4147f6de90b92c7aee95aa0e76dd1b30ea
+SHA256: f8d994e8d62b2ef7122d7a167510c0e15e2f18c2e7e9f986facc9aa120f357e4
+SHA512: 6e9dea790a69fa5ecb1478a94aca7c0c1ab019eead545f51352d873527782f19ab8c41d97b924f3af4ce463ccaf0572705e1d2fec7d8842c31dfcadbb2c7e4c0
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.2-1_amd64.deb
+Size: 1661276
+MD5sum: d3547490095915b8640197cd7af7bb88
+SHA1: c77615d68dc5f9ab27033ae32f125f84e6bb5711
+SHA256: 58356c889afb18ad14faad45edc9ce496d112a5ae1275d09036280370f0bd528
+SHA512: a5052575d6fdb059e98c6a073ce4a6e7cb1f2dad50572626ec6f7028dd367f2f46422382215807cde47c8f1a1927ed5f223f32f68ae2657c8444cd46b7b2a7ba
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.3-1_amd64.deb
+Size: 1641780
+MD5sum: c3deb507602b7fc32822645d6e88bbc4
+SHA1: c98674ea40a02b6f36172631faab170661fde1aa
+SHA256: a88ca63aa2f462c5973dc0ccd974d67ca5fb934d9d868bd5e5eeeb43442e80ee
+SHA512: 175c206bf731ca3f7f38c8a509c8d7e8d7d246ab5a3d50672ded703637aa2178ed1ba8db86333469124ecf653f2a4d4330318b23831266877fce977efd59a7d7
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.4-1_amd64.deb
+Size: 1644556
+MD5sum: 89d990f948165771661b52a8e909db4b
+SHA1: b9df32617bda3aa5d609010b8c5b605c821e7dd7
+SHA256: 370ea3e2adcc0ee0b98f62d26d1eca226fc4b017c54605f5dbe16ca5d9716015
+SHA512: 2875a73b5930b5868130070b4eae598d917b34013a19819ebd793f70efce283c73dbb3f1dc44ac4a5612166215b24ea3899162382501a1dc47fdacf87bc4ef9e
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.5-1_amd64.deb
+Size: 1645980
+MD5sum: 1632c553d9afe86964d3e60b84b6d023
+SHA1: 333ebeda57901f98908ddbee6bd4abc115c858fa
+SHA256: 73e181242eb8ffbde9e8a70286c327554d1abc18935b96e500c9433193a10ac1
+SHA512: 07121d2fb1ee84bcbad3ca2efa1cad84a488cbeac289e9af6218ec0f69ffce4d65db28faad9bcaf2c59b67d36c843aa117b3c9c9dd3530b641bbb9b5577c4ad0
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.6-1_amd64.deb
+Size: 1646428
+MD5sum: 2ce6636f14cd8ba8863299a202e48917
+SHA1: f242d8a03be73f376b2d0d0283ef0f741687e88a
+SHA256: 47d0184ee2e086a2398d734d71cc7e0e16585d98e04d15c1fbaed109ba69329d
+SHA512: e4824f5370ea65175fdc10a5c75339f2c550abd463c793246f2645e9d5ef637d6f89350e87361fdc89c9b3000d00345b45ab97cc0e8be195a2c5da935e1d7161
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.7-1_amd64.deb
+Size: 1647468
+MD5sum: 5b2b229180dd831ba4e022a0dd781f87
+SHA1: 865b9ffc485e955863714ee96365da1ac8ca4079
+SHA256: f7c64c69d2e7f455a9638b293a2ff32c4247c15572fd7aa27b3a1961a5386bdd
+SHA512: c80888c90d5c405580a0648793eb5b2c7250510ff1c272ef1b66594e83171e9c810f0bd2ccfb35f1a281f3aacc4b2776b2834c6d0690ea954b5e65e81f291330
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.8-1_amd64.deb
+Size: 1648120
+MD5sum: 68bc2ff14edb5eaba73c1e73d75ebdf4
+SHA1: c858a6d45873278806b7ca041d6ae702f669525b
+SHA256: c1aff51571bc2a31f4a2366a98862ba150c064fbc5343dd744d790d576038339
+SHA512: 49c13c7e86a922a2c2e18d4315eb2b395de28e1d2e381700cc7f419a5c2b334c44821886065ab18cdbfee77a2be5651a0b7a6914b76b7dfd478e9f7b5517db11
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-socket
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic
+Filename: pool/main/xremap-socket_0.15.9-1_amd64.deb
+Size: 1647484
+MD5sum: a1795eb8cad0a30dbd1d1d3206e147d8
+SHA1: 875d70cd0e5a7547e68d2ab5e2a540d022aed3ac
+SHA256: 4686ae91bb3d2212ab837bdde177c0a95823553cd01e74d5027b69a5ae81a6b5
+SHA512: e6132b43a27e61590e8e66d1731369572c314ca8c74eaab658c7be2179e4e01c29676909e473ea6a1c86d934b14c43b1ba30c15ac596b3fc548f999108470625
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with socket client support and logind session monitor.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.14.18-1_amd64.deb
+Size: 1141988
+MD5sum: f533b20fd0b37bc5f480e8f0f4322218
+SHA1: 2b514b0b356e7e73d081d47197df722f14649155
+SHA256: 804184fb0f718fbd834ed61c60235cd41a5af2a39761d239d1419d79b29c87e7
+SHA512: 9b4705ec3f3ca782ad2bf7d980ac642f04a3082aae0442d806dcef9e2ab20c360a28c87f16333d427234740404af2fd44a56d57fbc28a8befb528024621f0ba9
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.14.19-1_amd64.deb
+Size: 1141404
+MD5sum: b44c8b1e663615ab747387bdea235778
+SHA1: ba43f76182a4fe3b69d4dcd435cf2b689850afd4
+SHA256: 4893501c96b6a37bc3378e241f1d8c69ba6976490ec519d5ed56c90211cedbf0
+SHA512: 80477b016f13bbb745029cd506cd62a976d8e2cb872af190fdc00a8be7b95612a0ccfdcc7ca20ddfbb78cd0e23a5706aa7a24706b5d0cabd91ca93bed297c32f
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.0-1_amd64.deb
+Size: 1144576
+MD5sum: e93982ae7ada18ada18df6d103883101
+SHA1: 3a91315c317af33a43091aaeb916d88b4e212b98
+SHA256: ee8cf669b0683a0037e6cc44d31c79d54bd7282189f5d6517f222630f570c288
+SHA512: 5f11c6b40eb2af942a698d62709f71e928f1740cb8eddecc495766200c9b04c2558a3b50c6f7b0fbc37095938ee81572e08eb15b78d1f7baa54d0f6e12de0111
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.1-1_amd64.deb
+Size: 1167804
+MD5sum: b9b237f67463711b2fd801ce0e465ea5
+SHA1: 3b8c83538779713aaf469a7b9c9f8b221e54c4ff
+SHA256: 2a0619f87b600144b378842fa365756a397c0b3ee70f078d966be690b54555e8
+SHA512: 6e98f8730def6e5b3c9800ad9d6b1382c8cae9de9326c8198e467f6a14a5697d65560baf0415a00614bfc25e9794629bdba68fa9caf153676cd75033f919129c
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.10-1_amd64.deb
+Size: 1199260
+MD5sum: ca288c615cb14f85fbaccb20ec843c63
+SHA1: 981fca4d266de70818d8c0ba4debd68d11860789
+SHA256: b66feddc851cc6feaa3aab09445eac81d85ca179abd49721eef6ead103fccd9c
+SHA512: b74f8de30e83d7cf2f71100b1dca6f1827d5f578af2d887444e62355f218b1a7b7c59e53e2ff7e52fb743f27dcac73ed1dca773b5c4a97cfbc133877b5fd9040
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.11-1_amd64.deb
+Size: 1201312
+MD5sum: f8fea4c3aa7654b335cbfe1fba4daebf
+SHA1: bc243008a50cdc67e90c95c436b8e3e80da9ea3d
+SHA256: 95ea0283a084fa759153f935338eb9fb883e22f1d28ea3bb1be1bd611a8fc35e
+SHA512: 5b9acdd7b0df9d976be186ee71ee7afb7ed5469fc3e6fa4ff2d1e5aa4c9e02f8c19ab1adc69e600fbf99de52b847fb8dcc1ac8e9a2f7973f606efc41527d6346
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.12-1_amd64.deb
+Size: 1209692
+MD5sum: fea16ad08ff74d6c9e273051d75b9d7c
+SHA1: 0d17dbbee15e46ac0ef7d0db37f6e38d48b4f390
+SHA256: 039b7453c688cee4836aaa4c9847214b68040a38d062ebc33db68429df33d561
+SHA512: 33f82501b30f6085b08b1e8395fba26e74853a6950d144420c20d5dbf7fe3afb7694880d122d75edd78cf0a38f2af740e8391216db89457a104d1b34916d67b2
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.2-1_amd64.deb
+Size: 1167408
+MD5sum: 73773dd924651435141e27e8bef1bc1d
+SHA1: 5de47c2d63ffb930dcda04928f6a532ec4b6a457
+SHA256: 1ebaa93a3487ac8b8b9c746411a61420f39dbe54e9543bd5bf636ea5448322bb
+SHA512: 1856934cbcc561534db9abf0405bf8a1a6a799f170ed67c6b032e15a2a79bcba444204d1057c5be8cc7b173329a95fd629ae5a1f47d8796d65a410e0f961a5e2
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.3-1_amd64.deb
+Size: 1176300
+MD5sum: 93c1b9b6740c2c05771002a7312aca7b
+SHA1: 943b98ce05c59f3d26dbc0e7537471f2bfdd5290
+SHA256: 27955e8c621c9002d506aaf088b12ec188d52c39a39026e0979595ba256d0105
+SHA512: 057c6c993729e1aad82f56b1767c2cdb0a89dd659e70f281d828a6a8cc6c47d5a5bf39dc8825f33c4fd36a45ca77bedc9063c0deb39dec0cfa32710f4e8fd87c
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.4-1_amd64.deb
+Size: 1177832
+MD5sum: 3ceaab5a07fc333e0643a09f08d6e8ed
+SHA1: 4ca2c4d97d44396410a63682c04d9974afbcb40b
+SHA256: 33e59d255805b4e9b6c4bd56a46291fc5a18e9f5ee2dc0e608d1890f8846f8d4
+SHA512: dc9f84a48c7e3e1da7edd853fbcc80a4868344e8998de52ccd67dc5d2138370f9642725260ca81f78fc48854f373f81356ba6d37b60d2d3e0439965c6081ef24
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.5-1_amd64.deb
+Size: 1181184
+MD5sum: d14cf8d42d6a5285072e7ac72e70bc6b
+SHA1: 397ed34a86fa2e5333ec93a035a8bd022721a49e
+SHA256: d1976ea782bae8ef6ff659672601847b5f2a93687b0ecc514288d391157e26ea
+SHA512: 7589c8a2f5db4f80650405afbd942ebdf656da2627f07091dec8e603c33e08a77e4a5a587c698a9be5febb69fdf92fee6343edc9ac7dad5de3a4d6be5d45940b
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.6-1_amd64.deb
+Size: 1180576
+MD5sum: 4decbb39be94159ddab1502abe3d5399
+SHA1: 5004f53463c5972dcfd344fd01dd30bae852660a
+SHA256: 718bfd04454da518340b098e3013e541f6e91f01a34d68799399116d3b087e03
+SHA512: aba6ce9029b19cb3fba041bc6e5a72d1eaa27ba878e8970fcac71b61b5fd5e031e224a9194772bbbdac8f4ca0fb3a536fb8adadd945c0339f983b8dfaf8b0a49
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.7-1_amd64.deb
+Size: 1181932
+MD5sum: 401d77be5969c50b3fe81ad4df775931
+SHA1: affcab243b1fa7f6d38b3cd799c18d9f25990168
+SHA256: e294be217f6ee227cf28c991e821e3592966e8e1e7de8159dce85e27ba8877c8
+SHA512: 306e2f454180658c6360c0b0fa30d02a7bd2291a13b244e0b582d622068457ed01f6eb1412fad4faeaaa41fc8a9498bf3c183392cb4b3878159d8510a9147ba7
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.8-1_amd64.deb
+Size: 1182060
+MD5sum: 23f0338e68594b56677f6170eb2a7159
+SHA1: 2bd9fd726ea01c95ce2598f35065920b59713170
+SHA256: 247e678491141b1fb52fa751f7840586a733040f52f5a323e5eff7e7cf37432e
+SHA512: 980d738613e2b4471d2370327753a2d43c870bd27853b82c7492d572faa80e630208243d2d50673cd3e7a39c4d5b59fd5c1bc36e26297fafb2b02303a94b1357
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-wlroots
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-x11, xremap-kde, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-wlroots_0.15.9-1_amd64.deb
+Size: 1182356
+MD5sum: 8604f4c0584e017fe7002cef3427a0cf
+SHA1: c8dc51da380456a74dbcdccddec2d68642124ea9
+SHA256: 7c0c16325b34e6a19bef733721d8b27ca5910a9929b9fb7115b0f52a3a9e9fe6
+SHA512: 9a05d6b3ebd655d6b0fdf376fb9c0b51d503d6f63bab7b880aedb0bd33fae82563ff3cb147ae45202a0bad0910c38d7856dbc32762c6866e8ceb007888ae0cac
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with wlroots support for compositors like Sway.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.14.18-1_amd64.deb
+Size: 1135604
+MD5sum: d3ca643899dbe6239ed253b26358aa5f
+SHA1: d6e174237a17d8eaa2d1a9ac99532015f58cbdad
+SHA256: 40759a7c05e8b19427ecec8492016fa3854d934f6560c87a998224f9a615ef98
+SHA512: 23d439c9a16c05cce9190b4bdc010436a86c89ce1cbbb63a14be980e0875426e7e01a207defae9472330727ad9438dac4bc32d66b5fbd4bf6e5ecedbb9ea4fdc
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.14.19-1_amd64.deb
+Size: 1135348
+MD5sum: 48d571ad8f9115483071381bdf16a18c
+SHA1: e7a296fda1eb889f92e8d7cc025b688b8a38d2f3
+SHA256: a1008f2a5e27bdf9c08c67015e9c6371803ce4870bf350a30adecbd88090b266
+SHA512: 8c181549b179f05de3cacfb780f0f50b1aeb7779bebb756be2b6492238c5a106001088e4b3ac332c224bb63e285a8a529fab6c1cab53a1745e5f911b642359bd
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.0-1_amd64.deb
+Size: 1135840
+MD5sum: def74c54de78f2690888222100fb34f1
+SHA1: 4c7502a402e960d1f08aa999a147020ef300d2d5
+SHA256: 2bff5221fa98c62ed2fd1953f470747eb027ae731406421f2b7b692a22e72b35
+SHA512: dd707dbe648e49f97e1c9331abdc9212f5596e3db2ca65fd49eab0ce599278e4c9965cf34b1e3b6c87daa6df355a7564a5d03df16b9cb5e1d634c9454e5437d2
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.1-1_amd64.deb
+Size: 1160796
+MD5sum: da429ba26e05afd174af01c5879b514c
+SHA1: 0723d1995151882d1a8b63b2db301c8f97b41aea
+SHA256: 5983512a07f9aa30992dcc2f910b38287837af16b29c0e73b94f995148a20e55
+SHA512: e1d72446fa8641f772af43fa26d62de76d46fbb7166bbf0c1b4bcc52731820e13d92bdf502c5cb6a138c88be4cb76a2efceadbe1b8e4854fea83c75ca0952740
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.10-1_amd64.deb
+Size: 1192728
+MD5sum: 2e8faa43feab75d334871fc082e0872d
+SHA1: e3a376629940f17fe6ddd3f8707f64c171a6e22b
+SHA256: b96795ce0690a25e95b3d09c4507d729e348e4847bfe1845ac2a7fcd3fbeba00
+SHA512: 275365c834d64e65ee34ee1819eb34889dfdf9140dc398071640ba09ec1b2501048c4ebb34b1631c67ecec84a94cbc616293a520729a0ac6f2d670630cd7b1d9
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.11-1_amd64.deb
+Size: 1192980
+MD5sum: c38ea253e23961a5bda29a31d66788f5
+SHA1: d42eef6800173954b2713c380a4fd68e953bb330
+SHA256: dd4bbe870456ebe74f96de8bf3d363d0118a1a1eba9051f0572f5fbb44f42590
+SHA512: 371d1021cd6445c01886a9e49e1792ff00766044658c9d73baf7c75916723255fee2b68e0df644e3e2e765b5e02a603113a35f417cb05020545eb8632320b21e
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.12-1_amd64.deb
+Size: 1200804
+MD5sum: 491febf42199e86b88535c24b8a0fa12
+SHA1: 35568eddc3607336c01eb5f058d1ec04a0757241
+SHA256: 121a3c86b7151e10e465be6ef3f1699f7856497ef1307fb9a081f01a3310e2a5
+SHA512: 56de71b13aaac7cf613fab12445cf9c8182257ae5d6a1edf12978fe3e412b0cba7cdd2f70468685ca06b45bd9ba511f767a4f9d165b484786bf4e33268798206
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.2-1_amd64.deb
+Size: 1161468
+MD5sum: cef85a89ff382facf9f7511d7ae47733
+SHA1: cd5c2d9ecce6d28071d9a3bf1b23ac1a6ab5fd41
+SHA256: ee9095cae180ca3eb255a9ff0bfcff78cdad9f2d465c6296095b0359d498db18
+SHA512: c38438137f196f3d1282c758f5e5dc128647dc528026f4a53e3941efe5b43090c01e4d89225f2609a9e643dd3622090c690c5794734059a026b304e848468028
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.3-1_amd64.deb
+Size: 1170648
+MD5sum: 6f35d27c97594751f25ee6bbd625017f
+SHA1: 6737a7784300c13b97b633b18d5466ad4c44fdcb
+SHA256: ede39d3e523de91f94abd34ef73253e979a306ca6f7bdfcfeb2ae8f2b8217d0a
+SHA512: 9a0df6e8a3bf3b5e7caa3b4d46274af341ff5d535a716b81d6ed0f926466d4f74b1916d9c3dfd35dbb82aab2ec36cff77798073f8b415617c9dd2a9580f85ac3
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.4-1_amd64.deb
+Size: 1170084
+MD5sum: 561f8ee70d1dbdfa2f9c3c395af2d8aa
+SHA1: 479d9af0e233cc1ce9d37a71e31bdbc269c83359
+SHA256: e543e69ec841178b04b92ba83395b418624d4dfd580d505c0ff8bd2b078428b8
+SHA512: 68677e90706f4e21db42152df6bde6667e5a8ed7524febcc0d6ad6a52aef4530ae6ae28973348a3eee900caa0812db51dd72bc6eec19669d71d77221e8beaadb
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.5-1_amd64.deb
+Size: 1173072
+MD5sum: e6968b08d7e2c8b16879441d41f23b84
+SHA1: 4da33c89fa0a1b76055acc4fed14f9174cd4c7b4
+SHA256: 241ffc908d4ba8a1c956622e1d773ebbb0308558861c39e55fbf6929d9863ca0
+SHA512: 5d93160657b0011b5853d1f7326c56878df4732322a3c524efa368c55c9efdae55bcfd923fcc0b263551db1509f27eb3b8062747f064199ccbd513fe8bdb7b6c
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.6-1_amd64.deb
+Size: 1173872
+MD5sum: efe255ac7490c2076fc1384015595cab
+SHA1: 62eecaa0acd0f3dd5b64975965e5eac6325886af
+SHA256: 652f0fbd0bf31938f7ca0ceb6eb45eef27869cc02cdc695a08e7a0563725179c
+SHA512: dcb1f6760349035aa977f93c264e9b5bf271f73946ddf9d2dda1cc8259ea3194fdeef3e9ea4bbd78beae35fe920457bab267f72cedb26fbd90e8cc20a2c009c5
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.7-1_amd64.deb
+Size: 1175188
+MD5sum: a786645de21b0255cdade8f9f27b1e1d
+SHA1: dc371e66a58a23de3926d406d09bedeaca1811f3
+SHA256: 921c07a71f118d3e36ffc6629fb1fe88ed5b0547d4b4e6007ce25f470f27f02a
+SHA512: 793a31d4b6ab18cf09c1dbe03bda00b1e66dab7d83b6564a21120cb4cb11e75592dc0e6cdc95209d27c0b079159e2d70526c167e7615accb54fdf90bd9d04f97
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.8-1_amd64.deb
+Size: 1174224
+MD5sum: ba7e4fb2909ccd2e9fd49700404ae2be
+SHA1: 13b4c9111c515e8c5c47fca6a9ba972f56ae5a41
+SHA256: c02bacbe1e186e2154fde6283611a37041a9be0b4a7e1d872b4c8da366ada0bd
+SHA512: 7d02b4514760b68eab6179c9f013a96b6c30f1310d82f7785ed238525114260a327207aecb84a1ab03aa9799cf7f791a533e61cc65955f78eed7117b248783a0
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap-x11
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Recommends: xserver-xorg-core
+Conflicts: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap, xremap-gnome, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap-x11_0.15.9-1_amd64.deb
+Size: 1175264
+MD5sum: b23912eb330bb4ddaf9817f9f10aedf1
+SHA1: a57ef34903ec01332ef8d440a0976542bd12d08c
+SHA256: a6e6f3cf938d6d4b679e9cc369f8cf001e05508deb1ce70255b95e6737651309
+SHA512: e14632d0bb2af5657b6c37875ebbc75c2d0c027d516e14346910f2d6da047266fde0a7f3d7ac1f327b1ef3067b2c6cab967e86a356b3ad9b4ab9d9b3a1c5f98f
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This variant is built with X11 support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.14.18-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.14.18-1_amd64.deb
+Size: 1090244
+MD5sum: 222c02a2cde257c80707ba503e752aaa
+SHA1: 008d078cf1475e83749411a80b9519b0fa04905c
+SHA256: fefaee03a70ff6fb1b190b9d8de583327a51bc82145fc2db4b6607fb6b284a05
+SHA512: a3bcd3e858dcf2b70d9a361c9d3addf9499637b3d7fa72968a3248e228ca7b3b8c3546964e97b1100e08fc3d8112344659841406f60979b3b4912d78087c53f0
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.14.19-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.14.19-1_amd64.deb
+Size: 1089280
+MD5sum: 4a48ffd60f9e67c72b8d3363900c0b63
+SHA1: f229934e31487d201785c378afcf90de84a5cb26
+SHA256: f4ba605e94cf78bbd984a0c487bfccc9017fae288bfb3d912d950ee08b0163be
+SHA512: 0ad90afe3d83f48e2b0be4d402baed024f17d13d1769d6b01d2f12693ffe6d6476c4dc915453891755f9b8b512b1b4bd4aaefca48ca99b2cc56cf4e2b4f52359
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.0-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.0-1_amd64.deb
+Size: 1092500
+MD5sum: 988e222f436003cb153a36eb4b9450b2
+SHA1: da713915b26b69fd44adcd1ad5966e371215c480
+SHA256: e5e837c12b6685864a05617c90ff31b4e17eb201e5f44da9d9c67560205c06ef
+SHA512: a8b60d2570fe9313c70691525390e152d5ffe785a5ce81677aaa6b8e6f2f0443077d2869f79f7abad9c0f13944728c720934f9dfb54b9059490048a10533c7a7
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.1-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.1-1_amd64.deb
+Size: 1115508
+MD5sum: 37e47af60ea576f73b2950b5c66b8544
+SHA1: 966236eaa591e4f23e39ab4931dc7d64aa3fe97c
+SHA256: b33ef0ef50348ba434ba859b1e95d7e876483fab2e9c61ba763f9e02029cf605
+SHA512: dd3c763715cbed07c22ba2431f85427bec1eb1524179abcb03e4f2887c2e1b8f48d91ffbcfde487918a668af52ffcebe4cc0595fb91c7c30cfac34d5a4eaf4dc
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.10-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.10-1_amd64.deb
+Size: 1142668
+MD5sum: bb92a5225aec79b36495c1fcd91615e6
+SHA1: eb2f8cbed91ba180bc4f239208e810b26fe44cfd
+SHA256: 9164e687d86c7d0645ef352e76ecf7ce6fda8022f9b5505c144c6bd9e1c74942
+SHA512: e4a4fa4a8758eeccd0907178d6ca9a35097cad1d28b8436b681506a0c947d18c35bde171e56a4e2c90be03a53da57a0cecd972d334d2a26c3136d018fb4b3202
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.11-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.11-1_amd64.deb
+Size: 1143512
+MD5sum: 0826c5a30979355f3c30a5cea9e1d14f
+SHA1: ad2b940ffd865970855888c6f9c5b2d606944542
+SHA256: 55ea7cb008a88d85713fecf106838d1ad5c14a86a782ae6d8e55147701dda492
+SHA512: 798ee24c83ee86154ec0f14d9cd3d9d12335619c7f33acd4cd517efdb1715d0f802f96a790ab69d5fc4e620f5bb4cdef5ca88f51a6bd6b4be7207c0d8b0144ec
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.12-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.12-1_amd64.deb
+Size: 1153760
+MD5sum: f0eadd7ddcbaba31f3b24443d641ae21
+SHA1: 0c4e383d2b08226788dbbd15f1c1cab13151cebe
+SHA256: 53b6b2cfd8c3107a68562ccdb401e171ead6b061e08831ff5ff1062df82749dc
+SHA512: cff136df82e2e5d9d1d9806a0843294aada783336a3b12674ffbdc883aa9a2e756f4eeeb2f3df24819659005a14a2b0b2cce5091efa33f3f818c421e06098c32
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.2-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.2-1_amd64.deb
+Size: 1116080
+MD5sum: d5deb94c28ff67b706ad8e54100a4593
+SHA1: f4e51edddf4d72ffdd0e19c4a5cb4939f51e8a93
+SHA256: cfdeb2a1c14d3600d64c2242e4869221eadc018ecc6df3a32fecb30f3b284d9d
+SHA512: 42ef68e7739bbb8dcaac0042607e04b01a2808d1ac28fb3c9c2bdae3fb0e0703dc666ec9409a3c9c71d24796c52d28d36892e28b6aa2bebbeed34c3bb755b4fb
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.3-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.3-1_amd64.deb
+Size: 1123752
+MD5sum: 595e7e34567d2b865729c2513402e7df
+SHA1: ebb80233ba5804182d71e52315240f43d0884df9
+SHA256: 8db57429d555e9f5998ca0a4d26807b79fab8c3764dbdae62cb359e392729b84
+SHA512: e0449b65b0edb55d04628ecc7388cd6365409fc20044b2d6a41052a647df01a5231a97a817c14fcb9257b99c33f2a7ebc8204f9fd510b26e8179bbb7fcb202ec
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.4-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.4-1_amd64.deb
+Size: 1122572
+MD5sum: 3c1d37145d0609dd32e4c1817c6980de
+SHA1: 5e59e5b828e99bdd342cce8b6dfa0f112f9f5693
+SHA256: 76659fb13fbb70e45bbb9e3bcdd846b9c7f2b322768168a97f2d390f3ec19eb2
+SHA512: adc285f1571d01948aab95b4abe3b3d6edeeb8039b1be7d2fddaf67cee73111a5d986cf434b0f1ac79be42a0f6119cffc7a35d32fde17363d3b6cdc221ca4115
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.5-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.5-1_amd64.deb
+Size: 1126464
+MD5sum: 01648b3eb041dd82242664edea31a2a3
+SHA1: 5849ffa9647321aabf1c07eb85ecb8d064236bc3
+SHA256: cfdff6276a02927d477d7a6b53afdf0416dbc142399b49e5e864f287919a5414
+SHA512: 87144d51b24d6fb1706d109eacd07ce4b3d32dba3741d4d73199eb33c434d0a4ce050956d04c5765b75f5b857273ff2e9c8f397776be0f0e37fc489b1b1b0015
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.6-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.6-1_amd64.deb
+Size: 1126104
+MD5sum: b90e0a52f8be2d2aeb7cc7ae62cff3f4
+SHA1: 55bdce50b193152c88b86803dac5b02a8b3f7f74
+SHA256: 3f77e17ec9baa2f0fc18ee1183b8e19e4166772f13e3545ac23c79315fb6797d
+SHA512: 51ddf3344b73c334db7856d905b94f7d5e821917a0bfc667f1b140c75842284ff5975a99758f219c554489948d57d8b3aa6429ab92da1907e6905b00df24d9b0
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.7-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.7-1_amd64.deb
+Size: 1126436
+MD5sum: 54f0583d803040dce1303cd5f444634e
+SHA1: 293365eba192306d0bdfda7f89f332a4406156fc
+SHA256: 7ab297162e10c14815701302685c603d5fc5cb9796cf4af9142bbacb5965009f
+SHA512: e3f9f7d2e90813b7752178327bcc3c5b057b93286ecae5c6978f08a29dfc3beaa4c4f41e307f4b307513f1fc3f41936f659cf747f31469fdc335bd11e05e7e04
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.8-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.8-1_amd64.deb
+Size: 1127028
+MD5sum: f579815d3ce7251c0094a7bf02d3a3e6
+SHA1: 8914d91ba5675ce2acd9f8aa964551c00ca645f2
+SHA256: f25e6c76c2d70799fd38653c66f4b8a23eccb1b3f0c7fdb52a0ffe3441d77b6b
+SHA512: 4c3a58160b80771fae5c39a4996220916377b1ea03af3ac3e95565c6165e8cb2e5490ac6b414c9942119f5595fb5612a1f70714c132ca8c9764e7dcd1c29949d
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
+Package: xremap
+Architecture: amd64
+Version: 0.15.9-1
+Priority: optional
+Section: utils
+Maintainer: Blake Gardner <blakerg@gmail.com>
+Depends: libc6 (>= 2.34)
+Conflicts: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Replaces: xremap-gnome, xremap-x11, xremap-kde, xremap-wlroots, xremap-hypr, xremap-niri, xremap-cosmic, xremap-socket
+Filename: pool/main/xremap_0.15.9-1_amd64.deb
+Size: 1126424
+MD5sum: fe0612d97e22d95900a4520d13ff54a9
+SHA1: d1377d60a2c592f8ae1376c4233a9ff6cd744833
+SHA256: 3e8f67f36d713a633d9db1d40632246c4df06b73eb0b9eef46d48c1fdb7cf4bf
+SHA512: e262b19b9f9fc595343572992215713e67a5996bde336c6a801eb46043db3aff8666982433a3133c7f0139ddc8fbc7bbb743b0ece6f03ac3fad7162c623c6dbd
+Homepage: https://github.com/xremap/xremap
+Description: key remapper for Linux with app-specific remapping and Wayland support
+ xremap is a key remapper for Linux. It supports application-specific
+ remapping and Wayland.
+ .
+ This is the vanilla variant without desktop-specific support.
+
