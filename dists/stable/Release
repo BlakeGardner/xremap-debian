@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Sun, 27 Sep 2026 12:25:05 +0000
+Description: xremap Debian/Ubuntu packages
+Label: xremap
+Origin: xremap
+Suite: stable
+MD5Sum:
+ ac3395a727de959ffc0c63bbec5a610a              185 Release
+ e81f3bfdb9aa43c1809ba1aed70b67ce           161711 main/binary-amd64/Packages
+ 0df5faeee1bfbb0e6fcd442e786f4473            29158 main/binary-amd64/Packages.gz
+ 58e2e1931ceb7fffdbe82f05db2a075a           161648 main/binary-arm64/Packages
+ de867c70037b4f0b9d368ae8d8a8fd74            29165 main/binary-arm64/Packages.gz
+SHA1:
+ a2d064ab24d5360899fbe5a5345d9d5da470917f              185 Release
+ d15da1e299d49e8aa08224a392ffa087896052cd           161711 main/binary-amd64/Packages
+ cf205415aa8e67adacfd8d4d0d664152904b89d7            29158 main/binary-amd64/Packages.gz
+ a6d2764e5115544620cf2f55244f727d9c682e7b           161648 main/binary-arm64/Packages
+ 38239f4195416b8ae8d09d4a684d8fb449c7fdce            29165 main/binary-arm64/Packages.gz
+SHA256:
+ 0becb16f9f4398f0c73b4cd190c202e0efd8da6445f886c3d9b2ede860d69333              185 Release
+ facac61594d9131f945c2d646cba470a0daa00af5bfbf47a6951357e829c4eff           161711 main/binary-amd64/Packages
+ f3240ff4926ee42174fb488660e3ee9da45fc74a6f3ef484ea75d5279d334633            29158 main/binary-amd64/Packages.gz
+ 5958e06c2ac65bc7947621c6849a4c86cd5d63bcfc40427da7a0ee833fe0e017           161648 main/binary-arm64/Packages
+ c0f0616ca97f3274aacf476091f010f29fbcf9236a91a240027e879e55c9d37b            29165 main/binary-arm64/Packages.gz
+SHA512:
+ a48b8335bc625c6123c9f3d6d0611c56526e37fa270dcd824f38d98669309f8ee090684f801a6250d59249670a546c305fe2544cd4a32c4e85dadbc1149f63ca              185 Release
+ ca2c47709d019ce08256cf6884e209d134b3588e1dbea88e664e2f40a23e2813c3e3d8757a150914e2b8f3a0a7821552f527e2c2cee08fd4704c63bc3fcc4a5c           161711 main/binary-amd64/Packages
+ fcfd5f3f56ebc22e807fea4720644352146a68e138774f1a539b16488343fc9f0cc0b75322e47058dca656819afa1faefd7c4cf5ad969aeaa36a347f59e43fcf            29158 main/binary-amd64/Packages.gz
+ d0a0f667ea4988659905d94cef6aeb72df5113d64acf93c41a601c9f261e355d0f67dde07849c18a8a66e8405e79693d262575e0c41d424ada003a9f8becd231           161648 main/binary-arm64/Packages
+ fcc58e3a4629b4fe097020dd649e6aa4213deebbc93072a8b7b8942955de7a9b2c0287b9114e320a9e285931303522756293466da213608696460f754dfd841f            29165 main/binary-arm64/Packages.gz
