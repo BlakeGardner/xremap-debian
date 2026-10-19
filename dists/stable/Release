@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Mon, 19 Oct 2026 13:49:28 +0000
+Description: xremap Debian/Ubuntu packages
+Label: xremap
+Origin: xremap
+Suite: stable
+MD5Sum:
+ e3fbe96d4b7704bbae611b5e8b244fd1              185 Release
+ 4e81d9930b6209cf25a0e07a4c125b54           171234 main/binary-amd64/Packages
+ ce050f854df95d390d7e565f56394f18            30831 main/binary-amd64/Packages.gz
+ 0c01f937223bd3dff5917d1dfe8ce5d7           171170 main/binary-arm64/Packages
+ e855ce9f27c8e3dbe64376ead6a25852            30840 main/binary-arm64/Packages.gz
+SHA1:
+ dbca64edd9a88cc7e38af727f2b7062393c8e0d4              185 Release
+ e3ed1da1af81edfdaf0a12f7a8267af2ca5840be           171234 main/binary-amd64/Packages
+ b4d1b6f00aa872e1f72a7fb3e4ccb64aa99ad6ef            30831 main/binary-amd64/Packages.gz
+ a73d9f8a446d82356789a023145a9b140fde601b           171170 main/binary-arm64/Packages
+ 3e8f432e577ebcedca0f80ce2d9ad9d7c1ba77a7            30840 main/binary-arm64/Packages.gz
+SHA256:
+ 813f9f8e92aadbec81c4cd882c23e69833e249cf0118a81fce8612d223b1c283              185 Release
+ 7c8295f3a724642f6ae69a2309642899f7eb8c874fd18697041fc7eb80746128           171234 main/binary-amd64/Packages
+ 11c199640f6de3a3474905f1cb73376314267b8ff9b8af8a89da98b1fc75ca94            30831 main/binary-amd64/Packages.gz
+ 798e222681410262802f9bdd246d5fec66268c81290dec5b4856e3885c32e53e           171170 main/binary-arm64/Packages
+ b210e60f7d1339ca769f440b79d643541441831f1642c17bbc1cda9c0e6b5d41            30840 main/binary-arm64/Packages.gz
+SHA512:
+ 5f13ac9ef286f51c7980617e147c57259b2083690a692c8374a2ddbca51e12afcda2bcb75bb11931228e2fa344bf6dba705c72dc3c46c8800d55dee41ed73112              185 Release
+ c164810ec6e98c6cea839b1f1d60e6482942d2f8b7b378f74b7fcb2cc75617e255a34942b611085c4c4cb6861e59a31a900d50d8b2591e79f43b7832cfb88267           171234 main/binary-amd64/Packages
+ 02f9f126b730713be031e9c603ad5a38018e7a2cac404a43604b53e4372ff2c4e39865a4072edbc3f051fb2c502b11a5ade0d728312a0b0195c3a1c4ef23ece3            30831 main/binary-amd64/Packages.gz
+ 4a14ac87a7dd264fbbf42bb9d2ccbf226742c82743a5b3fd3f59da56092d05683a77a15b19f6acc6a59a50d216dfadfcc54aa94b2a0f195004591794c30e7d18           171170 main/binary-arm64/Packages
+ f31d6df9c3838c2d18054d7aba66e78fadd29940a54774a73f9dde30b54dd079ea2e3b0c8e6ca3850afe7ab8c99f131d56dd712e2de5ac34b6b4a3195382fbc8            30840 main/binary-arm64/Packages.gz
