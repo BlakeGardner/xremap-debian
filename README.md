@@ -21,24 +21,26 @@ echo "deb [signed-by=/usr/share/keyrings/xremap-archive-keyring.gpg] https://bla
 
 # Install a variant
 sudo apt update
-sudo apt install xremap-gnome
+sudo apt install xremap-full
 ```
 
-Alternatively, download a `.deb` from the [releases page](https://github.com/BlakeGardner/xremap-debian/releases) and install it with `sudo apt install ./xremap-gnome_*.deb`.
+Alternatively, download a `.deb` from the [releases page](https://github.com/BlakeGardner/xremap-debian/releases) and install it with `sudo apt install ./xremap-full_*.deb`.
 
 ## Available Variants
 
 Due to differences in how application specific remapping is implemented in different desktop environments, multiple variants of `xremap` are available. Choose the variant that best matches your desktop environment.
 
-- **Vanilla (`xremap`)**: Use this variant if you're unsure which one to choose.
+- **Full (`xremap-full`)**: Use this variant if you're unsure which one to choose. It supports every desktop below and selects one automatically at startup; pass `--desktop=<name>` to choose one yourself.
+- **Vanilla (`xremap`)**: This variant has no desktop integration, so application-specific remapping is not available.
 - **GNOME (`xremap-gnome`)**: This variant is recommended if you want application-specific remapping to work in GNOME.
 - **KDE (`xremap-kde`)**: This variant is recommended if you want application-specific remapping to work in KDE Plasma.
 - **wlroots (`xremap-wlroots`)**: This variant is recommended if you're using a wlroots-based compositor like Sway.
 - **Hyprland (`xremap-hypr`)**: This variant is specifically built for Hyprland compositor.
 - **Niri (`xremap-niri`)**: This variant is specifically built for Niri compositor.
 - **COSMIC (`xremap-cosmic`)**: This variant is specifically built for System76's COSMIC desktop.
+- **Pantheon (`xremap-pantheon`)**: This variant is specifically built for elementary OS's Pantheon desktop.
 - **X11 (`xremap-x11`)**: This variant is recommended if you're using an X11-based desktop environment.
-- **Socket (`xremap-socket`)**: This variant is built with socket client support and logind session monitor.
+- **Socket (`xremap-socket`)**: This variant is built with socket client support and logind session monitor. The full variant includes this too, but only uses it when started with `--desktop=socket`.
 
 **Note:** Only one variant can be installed at a time.
 
@@ -118,8 +120,8 @@ gh release create v0.15.10 --title "xremap 0.15.10" --notes \
 
 Publishing the release triggers the [deb workflow](.github/workflows/deb.yml), which automatically:
 
-1. Builds all nine variants for amd64 and arm64 in a Debian 12 container.
-2. Attaches the 18 `.deb` files to the GitHub release.
+1. Builds all eleven variants for amd64 and arm64 in a Debian 12 container.
+2. Attaches the 22 `.deb` files to the GitHub release.
 3. Regenerates and signs the apt repository, and publishes it to the `gh-pages` branch (served by GitHub Pages).
 
 No manual steps are needed after publishing the release. Monitor progress with:
@@ -131,7 +133,7 @@ gh run watch --repo BlakeGardner/xremap-debian
 ### Verifying a Release
 
 ```bash
-# All 18 assets attached to the release
+# All 22 assets attached to the release
 gh release view v0.15.10 --json assets --jq '.assets | length'
 
 # apt repo serves the new version with a valid signature

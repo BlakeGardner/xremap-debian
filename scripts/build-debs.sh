@@ -34,7 +34,9 @@ declare -A FEATURES=(
     [hypr]="hypr"
     [niri]="niri"
     [cosmic]="cosmic"
+    [pantheon]="pantheon"
     [socket]="socket"
+    [full]="full"
 )
 
 # variant -> package name
@@ -47,7 +49,9 @@ declare -A PKGNAME=(
     [hypr]="xremap-hypr"
     [niri]="xremap-niri"
     [cosmic]="xremap-cosmic"
+    [pantheon]="xremap-pantheon"
     [socket]="xremap-socket"
+    [full]="xremap-full"
 )
 
 # variant -> extra description line
@@ -60,7 +64,9 @@ declare -A VARIANT_DESC=(
     [hypr]="This variant is built with Hyprland support."
     [niri]="This variant is built with Niri support."
     [cosmic]="This variant is built with COSMIC Wayland support (System76's COSMIC desktop)."
+    [pantheon]="This variant is built with Pantheon Wayland support (elementary OS)."
     [socket]="This variant is built with socket client support and logind session monitor."
+    [full]="This variant supports all desktops and selects one automatically at startup."
 )
 
 # variant -> Recommends (desktop environment packages; soft dependency so that
@@ -74,7 +80,9 @@ declare -A RECOMMENDS=(
     [hypr]="hyprland"
     [niri]="niri"
     [cosmic]="cosmic-session"
+    [pantheon]=""
     [socket]=""
+    [full]=""
 )
 
 # variant -> update-alternatives priority (matches the Fedora spec)
@@ -87,10 +95,12 @@ declare -A PRIORITY=(
     [hypr]=20
     [niri]=20
     [cosmic]=20
+    [pantheon]=20
     [socket]=20
+    [full]=20
 )
 
-ALL_VARIANTS="vanilla gnome x11 kde wlroots hypr niri cosmic socket"
+ALL_VARIANTS="vanilla gnome x11 kde wlroots hypr niri cosmic pantheon socket full"
 VARIANTS="${VARIANTS:-$ALL_VARIANTS}"
 
 echo "==> Building xremap ${VERSION}-${DEB_REVISION} (${ARCH}) variants: ${VARIANTS}"
