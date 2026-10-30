@@ -80,6 +80,12 @@ jobs:
           ref: gh-pages
           path: apt-repo
 
+      # apt-ftparchive is no longer preinstalled on the Ubuntu 26.04 runner image
+      - name: Install apt repository tooling
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y apt-utils
+
       - name: Import GPG signing key
         run: |
           echo "${{ secrets.APT_GPG_PRIVATE_KEY }}" | gpg --batch --import
