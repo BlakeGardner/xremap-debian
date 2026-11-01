@@ -12,11 +12,12 @@ The packages are distributed via an apt repository hosted on GitHub Pages.
 
 ```bash
 # Add the signing key
+sudo install -d -m 0755 /etc/apt/keyrings
 curl -fsSL https://blakegardner.github.io/xremap-debian/xremap-archive-keyring.gpg | \
-  sudo tee /usr/share/keyrings/xremap-archive-keyring.gpg > /dev/null
+  sudo tee /etc/apt/keyrings/xremap-archive-keyring.gpg > /dev/null
 
 # Add the repository
-echo "deb [signed-by=/usr/share/keyrings/xremap-archive-keyring.gpg] https://blakegardner.github.io/xremap-debian stable main" | \
+echo "deb [signed-by=/etc/apt/keyrings/xremap-archive-keyring.gpg] https://blakegardner.github.io/xremap-debian stable main" | \
   sudo tee /etc/apt/sources.list.d/xremap.list
 
 # Install a variant
