@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Tue, 10 Nov 2026 15:19:48 +0000
+Description: xremap Debian/Ubuntu packages
+Label: xremap
+Origin: xremap
+Suite: stable
+MD5Sum:
+ e7f2948cd957c74930378bf61c7a611b              185 Release
+ 35eebe91f058bb6e7aeaad0849ad643b           217648 main/binary-amd64/Packages
+ d844116ea45921535769ba6707e11458            38839 main/binary-amd64/Packages.gz
+ 21609fffdf161e2b65a65e589aa3dfaa           217582 main/binary-arm64/Packages
+ 1d5ddb5485929596f40a76fd345df7ae            38838 main/binary-arm64/Packages.gz
+SHA1:
+ 137ef8b847213716682b6887ead28ecfd633c838              185 Release
+ b0ba08596aaf7a5d0332d17f9e3e64d2f23d7847           217648 main/binary-amd64/Packages
+ a49c4b6fb53829dd51d8349ab2045087d3f9282e            38839 main/binary-amd64/Packages.gz
+ 7f4c8799a2ccc5f1179a9053bd4490c6f9f0478e           217582 main/binary-arm64/Packages
+ fd2789f1c25bcceb60710ac76d7e896a60e740a9            38838 main/binary-arm64/Packages.gz
+SHA256:
+ 605c14b821835e878bd677577e90c07ba4dba5b60f69ade7214f21a5c5fc2e9e              185 Release
+ e61e2d54048a467f6239ff2ecbb8766f704191cd1759df97f343d980514e9f12           217648 main/binary-amd64/Packages
+ 6b20239f445c47edbfb16757a71fb62768fb346ccc34e3a1c4759dc1ee756d8a            38839 main/binary-amd64/Packages.gz
+ 72bd8f5ccd45d17d38fa962d653671d78bf187f28382e37ec37690ffcd11564f           217582 main/binary-arm64/Packages
+ 2a37b7bc3b18ad83d201254a1f4fad1ae39b37d60500e80b5006ebc6cfafff9b            38838 main/binary-arm64/Packages.gz
+SHA512:
+ 043b2ede3b24b793c5c079cdad83b6e57c29f9bc05b26dc32fad05d57596d851ba109853d6618c4b9a769fc6c03c126ea184e0a3077d1e294b25bf232e46f671              185 Release
+ e44c2381c4b5cf8bc8ced4afe230fea762329a0f470c52a20689487fbdf25f9dc9731e5479b78944432413da3882f8c4dbd886b2e55c5eaf93fe09d97e729c9f           217648 main/binary-amd64/Packages
+ 2c861d7994b88f13ede9b11211dc1b5ce2fb49383997b47b4fe83718e0935848ed41e4df6a15e0b2b448beaf94a0905c6eaf2660e1ad11089e72c52823dbf24a            38839 main/binary-amd64/Packages.gz
+ f41124e2b2bea16a320041596cecfbc091426d44f92d64dc67a1eaf3610edeace44c337488e33c3034a02b20ce5dccb970827940e0a5ba132d6ca79faa6ea5b0           217582 main/binary-arm64/Packages
+ 9cc869008aca275614c9c63eb828e1423aec4990808669a1969c17faacbdd0377456514d0ed6129cf1acb569af821114a7552b1c0537fc45790e17cf6efc6938            38838 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQR8ZF7oOffS6C16Iu9MWR6PXR7PIAUCavM2FAAKCRBMWR6PXR7P
+IAAlAQCs4f1Bfl8QkOk8KXSB+FqFsxHEFTEa3dtFJIWFLbA5TgEAto68Fn4lylsn
+TnatcegAy/nM+wqT7pJxFs0WQ2KKrAc=
+=X7ZV
+-----END PGP SIGNATURE-----
